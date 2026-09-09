@@ -59,8 +59,84 @@ into structured information:
 ```
 
 ---
+## 2. Target Audience
 
-## 2. Core Pipeline
+MedExtract AI is designed for users and organizations that need to convert unstructured clinical notes into structured medical information while reducing unsupported AI-generated information.
+
+### Primary Audience
+
+**Healthcare professionals and healthcare organizations**
+
+The system can support doctors, nurses, clinics, and hospitals by organizing information from free-form clinical notes into a consistent JSON structure.
+
+The system is intended to assist with **information organization and extraction**, not clinical decision-making.
+
+### Secondary Audience
+
+**AI and GenAI developers**
+
+MedExtract AI demonstrates how Large Language Models can be used for structured information extraction while combining:
+
+* Prompt engineering
+* Structured JSON output
+* Pydantic validation
+* Error handling and retry/repair
+* Hallucination prevention
+* LLM evaluation
+
+### Academic / Internship Audience
+
+The project is also designed for **instructors, internship evaluators, and students** who want to understand how a GenAI application can be developed and evaluated systematically.
+
+The project demonstrates the complete development process:
+
+```text
+Data
+  ↓
+Prompt Engineering
+  ↓
+LLM
+  ↓
+Structured Output
+  ↓
+Validation
+  ↓
+Error Analysis
+  ↓
+Evaluation
+  ↓
+Improved Prompt
+```
+
+### Intended Use
+
+MedExtract AI can be used to:
+
+* Extract explicitly stated symptoms
+* Identify explicitly stated diagnoses
+* Extract medications and their stated details
+* Extract medical history
+* Extract procedures
+* Extract follow-up instructions
+* Generate a summary based only on the clinical note
+* Identify explicitly supported risk or urgency indicators
+* Convert unstructured notes into consistent JSON
+
+### Not Intended For
+
+MedExtract AI is **not intended to**:
+
+* Diagnose patients
+* Recommend treatments
+* Prescribe medication
+* Replace healthcare professionals
+* Make independent clinical decisions
+* Infer diseases that are not explicitly stated
+
+The system should always treat the source clinical note as the basis for extraction and should not invent missing information.
+
+
+## 3. Core Pipeline
 
 The main system follows this pipeline:
 
@@ -90,7 +166,7 @@ Summary / Risk / Urgency
 
 ---
 
-## 3. Project Requirements
+## 4. Project Requirements
 
 The system must:
 
@@ -107,7 +183,7 @@ The system must:
 
 ---
 
-## 4. Required JSON Schema
+## 5. Required JSON Schema
 
 Every extraction should follow this structure:
 
@@ -160,7 +236,7 @@ Example:
 
 ---
 
-## 5. Important Extraction Rules
+## 6. Important Extraction Rules
 
 ### Explicit information only
 
@@ -250,7 +326,7 @@ If the note is unclear, the model should avoid making unsupported assumptions.
 
 ---
 
-## 6. Dataset
+## 7. Dataset
 
 The project currently uses two CSV datasets:
 
@@ -298,7 +374,7 @@ Because of this repetition, the project uses a fixed test set containing unique 
 
 ---
 
-## 7. Test Set
+## 8. Test Set
 
 The fixed evaluation set is:
 
@@ -318,7 +394,7 @@ This makes prompt evaluation more meaningful because every version is tested on 
 
 ---
 
-## 8. Patient Diaries as Robustness Tests
+## 9. Patient Diaries as Robustness Tests
 
 Patient diary entries are useful for testing whether the model hallucinates diagnoses.
 
@@ -340,7 +416,7 @@ These examples help evaluate whether the prompt follows the project's explicit-o
 
 ---
 
-## 9. Prompt Engineering
+## 10. Prompt Engineering
 
 The project uses an iterative prompt engineering process.
 
@@ -432,7 +508,7 @@ These failures should be measured rather than assumed.
 
 ---
 
-## 10. Pydantic Validation
+## 11. Pydantic Validation
 
 The project uses Pydantic to validate the LLM output.
 
@@ -490,7 +566,7 @@ python -m tests.test_models
 
 ---
 
-## 11. Project Structure
+## 12. Project Structure
 
 The current project is organized approximately as follows:
 
@@ -539,7 +615,7 @@ prompts/
 
 ---
 
-## 12. Environment Setup
+## 13. Environment Setup
 
 ### Python
 
@@ -575,7 +651,7 @@ The current project uses Pydantic 2.x.
 
 ---
 
-## 13. Local LLM
+## 14. Local LLM
 
 The project can use a local LLM so that an API key is not required.
 
@@ -595,7 +671,7 @@ The exact model should be selected based on the computer's available RAM/VRAM an
 
 ---
 
-## 14. Running the Project
+## 15. Running the Project
 
 From the project root:
 
@@ -730,7 +806,7 @@ Do not fill these values until the tests have actually been run.
 
 ---
 
-## 16. Error Handling
+## 17. Error Handling
 
 The LLM can sometimes return invalid JSON.
 
@@ -768,7 +844,7 @@ The system should log failures so that prompt weaknesses can be identified.
 
 ---
 
-## 17. Safety and Scope
+## 18. Safety and Scope
 
 MedExtract AI is an extraction and summarization project.
 
@@ -793,42 +869,233 @@ Only synthetic or public data should be used for development and testing.
 
 ---
 
-## 18. Optional Voice Input
+## 19. Optional Voice Input (Speech-to-Text)
 
-Voice recognition can be added as an input layer without changing the extraction system.
+Voice input can be added to MedExtract AI as an input layer before the existing clinical information extraction pipeline.
 
-The extended architecture would be:
+The recommended Speech-to-Text (STT) solution is **Whisper**.
+
+Whisper converts spoken audio into text. The resulting text is then processed by the same prompt engineering, LLM extraction, and Pydantic validation pipeline used for normal text input.
+
+### Voice Architecture
+
+The extended MedExtract AI architecture becomes:
+
+```text
+Microphone
+    |
+    v
+Audio Recording
+    |
+    v
+Whisper Speech-to-Text
+    |
+    v
+Clinical Note Text
+    |
+    v
+Prompt Engineering
+    |
+    v
+Local / API LLM
+    |
+    v
+Structured JSON
+    |
+    v
+Pydantic Validation
+    |
+    +---- Invalid ----> Retry / Repair
+    |
+    v
+Validated Medical Extraction
+    |
+    v
+Summary / Risk / Urgency
+```
+
+### Why Whisper?
+
+Whisper is a suitable choice for this project because:
+
+* It is designed for speech recognition.
+* It can run locally.
+* It supports multiple languages, including English and Arabic.
+* It converts speech into normal text before the medical extraction process.
+* It keeps Speech-to-Text separate from the medical information extraction task.
+* It does not need to replace the existing LLM or Pydantic validation system.
+
+### Separation of Responsibilities
+
+Each component should have a specific responsibility:
+
+| Component      | Responsibility               |
+| -------------- | ---------------------------- |
+| Microphone     | Capture the user's voice     |
+| Whisper        | Convert speech into text     |
+| Prompt         | Define extraction rules      |
+| LLM            | Extract medical information  |
+| Pydantic       | Validate the JSON structure  |
+| Retry / Repair | Handle invalid LLM responses |
+| Evaluation     | Measure system performance   |
+
+For example, if a user says:
+
+```text
+Patient reports severe headache and fatigue. The patient is taking aspirin 81 mg daily.
+```
+
+Whisper produces the clinical note text:
+
+```text
+Patient reports severe headache and fatigue. The patient is taking aspirin 81 mg daily.
+```
+
+The text is then passed to the existing extraction pipeline.
+
+The LLM should produce structured information such as:
+
+```json
+{
+  "chief_complaint": "severe headache",
+  "symptoms": [
+    "severe headache",
+    "fatigue"
+  ],
+  "diagnosis": [],
+  "medical_history": [],
+  "medications": [
+    {
+      "name": "aspirin",
+      "dose": "81 mg",
+      "frequency": "daily",
+      "duration": null
+    }
+  ],
+  "procedures": [],
+  "follow_up": null,
+  "summary": "Patient reports severe headache and fatigue and is taking aspirin 81 mg daily.",
+  "risk_indicators": [],
+  "urgency": null
+}
+```
+
+### Important Design Principle
+
+Whisper should **only transcribe the audio**.
+
+It should not be responsible for:
+
+* Diagnosing the patient
+* Extracting medical conditions
+* Creating medical summaries
+* Determining medication information
+* Generating risk indicators
+
+Those tasks remain part of the existing MedExtract AI extraction pipeline.
+
+The responsibilities are therefore:
 
 ```text
 Voice
   |
   v
-Speech-to-Text
+Whisper
   |
+  |  Speech → Text
   v
 Clinical Note
   |
   v
-Prompt
-  |
-  v
 LLM
   |
+  |  Text → Structured Medical Information
   v
 JSON
   |
   v
 Pydantic
   |
+  |  Validate
   v
-Validated Result
+Final Result
 ```
 
-Voice input is optional and should remain separate from the core prompt engineering and evaluation pipeline.
+### Voice Input and Existing Text Input
 
----
+The system should support both text and voice:
 
-## 19. Future Improvements
+```text
+                 +------------------+
+                 |   User Input     |
+                 +--------+---------+
+                          |
+                 +--------+--------+
+                 |                 |
+                 v                 v
+              Text Input       Voice Input
+                                   |
+                                   v
+                                Whisper
+                                   |
+                                   v
+                              Text Output
+                 |                 |
+                 +--------+--------+
+                          |
+                          v
+                    Prompt / LLM
+                          |
+                          v
+                   Structured JSON
+                          |
+                          v
+                   Pydantic Validation
+                          |
+                          v
+                    Final Extraction
+```
+
+This means adding voice recognition does not require rebuilding the core extraction system.
+
+### Recommended Implementation Order
+
+Voice input should be implemented **after the text-based extraction pipeline is working reliably**.
+
+Recommended order:
+
+1. Complete Prompt V1.
+2. Test Prompt V1.
+3. Create Prompt V2.
+4. Create Prompt V3.
+5. Build the validation and retry system.
+6. Evaluate the prompts.
+7. Finalize the text extraction pipeline.
+8. Add Whisper for voice input.
+9. Test speech-to-text accuracy.
+10. Test the complete Voice → Text → LLM → JSON pipeline.
+
+This keeps the project modular and makes it easier to determine whether an error came from speech recognition or medical information extraction.
+
+### Future Voice Improvements
+
+Possible future improvements include:
+
+* Real-time microphone input
+* Arabic speech recognition
+* English/Arabic language selection
+* Automatic language detection
+* Audio preprocessing
+* Noise reduction
+* Speech-to-text confidence tracking
+* Voice transcription history
+* Integration with a Streamlit interface
+* Support for longer clinical conversations
+* Testing transcription errors separately from LLM extraction errors
+
+Voice input remains an **optional extension** of MedExtract AI and should not change the core extraction rules, JSON schema, validation system, or evaluation methodology.
+
+## 20. Future Improvements
 
 Possible improvements include:
 
@@ -849,7 +1116,7 @@ Possible improvements include:
 
 ---
 
-## 20. Recommended Development Order
+## 21. Recommended Development Order
 
 To avoid building everything at once, follow this order:
 
@@ -910,7 +1177,7 @@ To avoid building everything at once, follow this order:
 
 ---
 
-## 21. Quick Start
+## 22. Quick Start
 
 After setup, the basic workflow is:
 
@@ -944,7 +1211,7 @@ Repeat
 
 ---
 
-## 22. Current Project Status
+## 23. Current Project Status
 
 At the current stage:
 
@@ -957,7 +1224,7 @@ At the current stage:
 
 ---
 
-## 23. License / Disclaimer
+## 24. License / Disclaimer
 
 This project is an educational GenAI internship project.
 
