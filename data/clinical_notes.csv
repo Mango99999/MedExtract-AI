@@ -1,0 +1,1001 @@
+timestamp,text,label,response_length,sentiment,interaction_depth,turn_taking_frequency
+2025-07-14 15:48:10.234542,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-06-30 15:48:10.234648,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,5
+2025-07-03 15:48:10.234701,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,3
+2025-06-29 15:48:10.234779,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,4
+2025-07-15 15:48:10.234818,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-12 15:48:10.234860,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,4
+2025-07-05 15:48:10.234894,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-15 15:48:10.234941,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,5
+2025-07-20 15:48:10.235005,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,4
+2025-07-18 15:48:10.235046,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,3
+2025-07-09 15:48:10.235097,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,5
+2025-07-22 15:48:10.235136,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,2
+2025-07-29 15:48:10.235171,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,2
+2025-07-25 15:48:10.235201,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,2
+2025-07-24 15:48:10.235241,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,4
+2025-07-14 15:48:10.235280,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,4
+2025-07-29 15:48:10.235317,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,1
+2025-07-19 15:48:10.235349,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-20 15:48:10.235395,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,5
+2025-07-18 15:48:10.235437,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,1
+2025-07-18 15:48:10.235496,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,3
+2025-07-04 15:48:10.235536,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,3
+2025-07-25 15:48:10.235580,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,4
+2025-07-18 15:48:10.235633,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,4
+2025-07-06 15:48:10.235665,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-10 15:48:10.235709,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,5
+2025-07-17 15:48:10.235746,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,4
+2025-07-17 15:48:10.235786,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,3
+2025-07-17 15:48:10.235824,"Patient has fluctuating moods, feeling overwhelmed.",depression,6,0.1779,6,1
+2025-07-25 15:48:10.235859,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,4
+2025-07-16 15:48:10.235896,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-02 15:48:10.235932,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,3
+2025-07-04 15:48:10.235965,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,4
+2025-07-29 15:48:10.235999,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-09 15:48:10.236043,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,1
+2025-07-25 15:48:10.236078,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,4
+2025-06-30 15:48:10.236113,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,2
+2025-07-10 15:48:10.236143,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,4
+2025-07-12 15:48:10.236176,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,3
+2025-07-21 15:48:10.236212,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,1
+2025-07-11 15:48:10.236255,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,3
+2025-07-29 15:48:10.236298,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,5
+2025-07-05 15:48:10.236333,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,4
+2025-07-28 15:48:10.236375,Patient has been experiencing low thoughts and needs support.,no depression,9,0.1531,9,3
+2025-07-15 15:48:10.236408,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,5
+2025-07-16 15:48:10.236439,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-18 15:48:10.236477,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,1
+2025-07-29 15:48:10.236535,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,4
+2025-07-23 15:48:10.236568,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,3
+2025-07-26 15:48:10.236623,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,3
+2025-07-07 15:48:10.236675,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,1
+2025-07-03 15:48:10.236710,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,5
+2025-07-19 15:48:10.236754,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,2
+2025-07-03 15:48:10.236793,Patient expressed feelings of being anxious and lacks motivation.,no depression,9,0.1027,9,5
+2025-07-03 15:48:10.236821,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,2
+2025-07-07 15:48:10.236881,"Patient indicates a lack of interest in activities, feeling unstable.",depression,10,-0.0772,10,1
+2025-07-09 15:48:10.236911,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-22 15:48:10.236962,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,5
+2025-07-27 15:48:10.237012,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,2
+2025-07-13 15:48:10.237055,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,3
+2025-07-22 15:48:10.237089,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,5
+2025-07-12 15:48:10.237119,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-19 15:48:10.237160,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,1
+2025-07-07 15:48:10.237217,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,1
+2025-07-12 15:48:10.237244,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,1
+2025-07-28 15:48:10.237287,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,5
+2025-06-30 15:48:10.237324,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,5
+2025-07-26 15:48:10.237361,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-07-20 15:48:10.237395,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,1
+2025-07-25 15:48:10.237445,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,3
+2025-07-03 15:48:10.237483,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,4
+2025-07-13 15:48:10.237517,Patient reports feeling unstable and unable to concentrate.,depression,8,-0.25,8,2
+2025-07-26 15:48:10.237554,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,3
+2025-07-11 15:48:10.237612,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,1
+2025-07-23 15:48:10.237640,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,3
+2025-07-07 15:48:10.237682,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,5
+2025-07-22 15:48:10.237715,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-06 15:48:10.237751,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,3
+2025-07-17 15:48:10.237878,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,2
+2025-07-24 15:48:10.237950,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,5
+2025-07-20 15:48:10.237994,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,4
+2025-07-13 15:48:10.238039,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,3
+2025-07-24 15:48:10.238080,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,2
+2025-07-26 15:48:10.238130,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,1
+2025-07-27 15:48:10.238168,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,3
+2025-07-02 15:48:10.238225,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,4
+2025-06-29 15:48:10.238263,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,1
+2025-07-06 15:48:10.238301,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,1
+2025-06-30 15:48:10.238337,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,1
+2025-07-14 15:48:10.238383,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,3
+2025-07-29 15:48:10.238425,Patient expressed feelings of being unstable and lacks motivation.,no depression,9,-0.0258,9,1
+2025-07-03 15:48:10.238470,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,3
+2025-07-13 15:48:10.238501,Patient feels low; a referral to a psychiatrist may be necessary.,depression,11,-0.2732,10,1
+2025-07-15 15:48:10.238545,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,3
+2025-07-11 15:48:10.238609,"Patient indicates a lack of interest in activities, feeling unstable.",no depression,10,-0.0772,10,4
+2025-07-09 15:48:10.238667,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,4
+2025-07-12 15:48:10.238697,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,2
+2025-07-25 15:48:10.238749,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,3
+2025-07-28 15:48:10.238783,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-02 15:48:10.238821,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,5
+2025-07-24 15:48:10.238856,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,5
+2025-07-26 15:48:10.238894,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,3
+2025-07-19 15:48:10.238953,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,3
+2025-07-06 15:48:10.238998,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,3
+2025-07-25 15:48:10.239036,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,2
+2025-07-26 15:48:10.239072,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,4
+2025-07-02 15:48:10.239102,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-25 15:48:10.239133,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,4
+2025-07-13 15:48:10.239173,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,2
+2025-07-25 15:48:10.239206,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,2
+2025-07-25 15:48:10.239253,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,3
+2025-07-02 15:48:10.239280,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-20 15:48:10.239319,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,1
+2025-07-15 15:48:10.239417,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,1
+2025-07-04 15:48:10.239468,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,5
+2025-07-27 15:48:10.239505,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,2
+2025-07-09 15:48:10.239560,"Patient indicates a lack of interest in activities, feeling anxious.",no depression,10,0.0516,10,4
+2025-07-11 15:48:10.239593,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,5
+2025-07-08 15:48:10.239627,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-07-18 15:48:10.239673,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,4
+2025-07-07 15:48:10.239700,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,4
+2025-07-25 15:48:10.239743,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,4
+2025-07-17 15:48:10.239804,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,3
+2025-07-01 15:48:10.239863,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,5
+2025-07-16 15:48:10.239979,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-23 15:48:10.240055,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,1
+2025-07-12 15:48:10.240326,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,1
+2025-07-21 15:48:10.240455,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,4
+2025-07-26 15:48:10.240555,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,5
+2025-07-03 15:48:10.240595,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-25 15:48:10.240626,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-07 15:48:10.240654,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,3
+2025-07-24 15:48:10.240686,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,3
+2025-07-08 15:48:10.240826,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,4
+2025-07-26 15:48:10.240916,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,5
+2025-07-27 15:48:10.240967,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,4
+2025-07-16 15:48:10.241019,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,5
+2025-07-18 15:48:10.241053,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-06-30 15:48:10.241116,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,5
+2025-07-25 15:48:10.241164,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,4
+2025-07-12 15:48:10.241194,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-01 15:48:10.241232,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,2
+2025-07-10 15:48:10.241268,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,5
+2025-07-28 15:48:10.241343,Patient expressed feelings of being unstable and lacks motivation.,depression,9,-0.0258,9,3
+2025-07-16 15:48:10.241467,Patient has been experiencing low thoughts and needs support.,no depression,9,0.1531,9,5
+2025-07-04 15:48:10.241524,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,4
+2025-07-25 15:48:10.241559,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,1
+2025-07-14 15:48:10.241606,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,5
+2025-07-02 15:48:10.241639,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,3
+2025-07-15 15:48:10.241674,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,3
+2025-07-25 15:48:10.241707,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,3
+2025-06-29 15:48:10.241753,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,3
+2025-07-13 15:48:10.241785,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,5
+2025-07-18 15:48:10.241817,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,2
+2025-07-19 15:48:10.241870,"Patient indicates a lack of interest in activities, feeling anxious.",depression,10,0.0516,10,1
+2025-07-06 15:48:10.241919,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,1
+2025-07-09 15:48:10.241968,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,5
+2025-07-01 15:48:10.241998,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,2
+2025-07-18 15:48:10.242048,"Patient indicates a lack of interest in activities, feeling anxious.",depression,10,0.0516,10,2
+2025-07-16 15:48:10.242093,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,5
+2025-07-02 15:48:10.242122,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,4
+2025-07-26 15:48:10.242150,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-17 15:48:10.242182,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,5
+2025-07-09 15:48:10.242220,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,4
+2025-07-19 15:48:10.242249,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-04 15:48:10.242288,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,4
+2025-07-20 15:48:10.242391,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,3
+2025-07-08 15:48:10.242472,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,2
+2025-07-25 15:48:10.242557,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,4
+2025-07-09 15:48:10.242656,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,4
+2025-07-29 15:48:10.242700,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,2
+2025-07-15 15:48:10.242731,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-05 15:48:10.242797,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,5
+2025-07-22 15:48:10.242893,Patient reports feeling overwhelmed and unable to concentrate.,no depression,8,0.1779,8,2
+2025-07-25 15:48:10.242940,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,2
+2025-07-08 15:48:10.242996,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,4
+2025-07-29 15:48:10.243032,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,1
+2025-07-10 15:48:10.243099,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,2
+2025-07-22 15:48:10.243131,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,5
+2025-06-29 15:48:10.243170,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-07-06 15:48:10.243205,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,4
+2025-07-14 15:48:10.243242,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,2
+2025-06-30 15:48:10.243364,"Patient indicates a lack of interest in activities, feeling anxious.",depression,10,0.0516,10,4
+2025-07-01 15:48:10.243466,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,2
+2025-07-26 15:48:10.243525,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,3
+2025-07-18 15:48:10.243587,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,3
+2025-07-10 15:48:10.243624,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,3
+2025-06-30 15:48:10.244506,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,4
+2025-07-07 15:48:10.244640,"Patient has fluctuating moods, feeling overwhelmed.",no depression,6,0.1779,6,3
+2025-07-22 15:48:10.244691,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,5
+2025-07-02 15:48:10.244729,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,2
+2025-07-03 15:48:10.244771,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,2
+2025-07-22 15:48:10.244807,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,2
+2025-07-07 15:48:10.244842,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,2
+2025-07-12 15:48:10.244870,Patient feels low; a referral to a psychiatrist may be necessary.,depression,11,-0.2732,10,5
+2025-07-10 15:48:10.244911,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,4
+2025-07-28 15:48:10.244948,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,5
+2025-07-25 15:48:10.244982,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,4
+2025-07-16 15:48:10.245027,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,5
+2025-06-30 15:48:10.245060,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,5
+2025-07-15 15:48:10.245084,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,1
+2025-07-13 15:48:10.245140,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,4
+2025-07-17 15:48:10.245168,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-08 15:48:10.245194,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-10 15:48:10.245218,Patient feels low; a referral to a psychiatrist may be necessary.,depression,11,-0.2732,10,4
+2025-07-17 15:48:10.245248,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,3
+2025-07-19 15:48:10.245283,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,5
+2025-07-21 15:48:10.245314,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,5
+2025-07-29 15:48:10.245338,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,2
+2025-07-18 15:48:10.245409,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,5
+2025-07-28 15:48:10.245468,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,2
+2025-07-13 15:48:10.245657,"Patient indicates a lack of interest in activities, feeling low.",depression,10,0.0258,10,2
+2025-07-14 15:48:10.245724,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,4
+2025-07-01 15:48:10.245950,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,3
+2025-07-24 15:48:10.246034,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-06 15:48:10.246079,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,2
+2025-07-26 15:48:10.246120,Patient has been experiencing low thoughts and needs support.,no depression,9,0.1531,9,3
+2025-06-29 15:48:10.246154,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,2
+2025-06-29 15:48:10.246191,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,2
+2025-07-08 15:48:10.246213,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,2
+2025-06-30 15:48:10.246240,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-25 15:48:10.246272,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,4
+2025-07-09 15:48:10.246302,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,2
+2025-07-16 15:48:10.246333,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,5
+2025-07-22 15:48:10.246363,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,3
+2025-07-27 15:48:10.246388,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-06-29 15:48:10.246417,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,4
+2025-07-22 15:48:10.246450,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,5
+2025-07-14 15:48:10.246481,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,4
+2025-06-29 15:48:10.246520,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,2
+2025-07-02 15:48:10.246560,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,2
+2025-07-29 15:48:10.246592,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,2
+2025-07-04 15:48:10.246645,"Patient indicates a lack of interest in activities, feeling low.",depression,10,0.0258,10,5
+2025-07-12 15:48:10.246678,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,1
+2025-07-27 15:48:10.246749,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,5
+2025-07-27 15:48:10.246775,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,3
+2025-07-19 15:48:10.246800,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,3
+2025-07-06 15:48:10.246846,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,3
+2025-07-08 15:48:10.246880,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,2
+2025-07-19 15:48:10.247038,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,1
+2025-07-16 15:48:10.247253,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,4
+2025-07-03 15:48:10.247355,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,1
+2025-07-27 15:48:10.247501,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,4
+2025-07-15 15:48:10.247580,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,5
+2025-07-22 15:48:10.247618,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,2
+2025-07-29 15:48:10.247782,"Patient shows signs of depression, feeling overwhelmed and fatigued.",depression,9,-0.6597,9,2
+2025-07-23 15:48:10.247869,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,4
+2025-07-22 15:48:10.248001,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,2
+2025-07-03 15:48:10.248227,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-07-27 15:48:10.248296,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,2
+2025-07-29 15:48:10.248391,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,3
+2025-06-30 15:48:10.248418,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,4
+2025-07-06 15:48:10.248461,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,4
+2025-07-21 15:48:10.248546,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,5
+2025-07-05 15:48:10.248595,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,2
+2025-07-11 15:48:10.248647,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,5
+2025-07-23 15:48:10.248712,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,3
+2025-07-25 15:48:10.248881,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-19 15:48:10.248957,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,5
+2025-07-21 15:48:10.249060,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,4
+2025-07-16 15:48:10.249121,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,2
+2025-06-30 15:48:10.249584,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,4
+2025-07-01 15:48:10.249661,Patient expressed feelings of being anxious and lacks motivation.,no depression,9,0.1027,9,1
+2025-07-10 15:48:10.249709,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,2
+2025-07-03 15:48:10.249757,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,5
+2025-07-21 15:48:10.249819,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,5
+2025-07-23 15:48:10.249875,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,3
+2025-07-16 15:48:10.250029,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,1
+2025-07-16 15:48:10.250093,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,2
+2025-06-30 15:48:10.250190,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,5
+2025-07-29 15:48:10.250776,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,2
+2025-07-11 15:48:10.251027,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,5
+2025-07-13 15:48:10.251105,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,1
+2025-07-15 15:48:10.251166,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,5
+2025-07-27 15:48:10.251218,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-03 15:48:10.251310,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,1
+2025-06-29 15:48:10.251398,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,3
+2025-07-28 15:48:10.251447,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-17 15:48:10.251502,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,1
+2025-07-19 15:48:10.251580,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,2
+2025-07-18 15:48:10.251626,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,2
+2025-07-14 15:48:10.251678,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,3
+2025-07-07 15:48:10.251721,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,4
+2025-07-25 15:48:10.251808,"Patient indicates a lack of interest in activities, feeling anxious.",depression,10,0.0516,10,4
+2025-06-29 15:48:10.251869,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,3
+2025-07-03 15:48:10.251955,"Patient indicates a lack of interest in activities, feeling anxious.",no depression,10,0.0516,10,2
+2025-07-19 15:48:10.252015,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,5
+2025-07-06 15:48:10.252085,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,5
+2025-07-13 15:48:10.252161,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,2
+2025-07-04 15:48:10.252204,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,4
+2025-07-21 15:48:10.252257,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,5
+2025-07-01 15:48:10.252301,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,depression,11,0.0516,10,2
+2025-07-13 15:48:10.252354,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,5
+2025-07-10 15:48:10.252413,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,5
+2025-07-09 15:48:10.252467,Patient reports feeling unstable and unable to concentrate.,depression,8,-0.25,8,5
+2025-07-19 15:48:10.252518,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,2
+2025-07-08 15:48:10.252576,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,3
+2025-07-14 15:48:10.252632,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,5
+2025-07-21 15:48:10.252709,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,5
+2025-07-16 15:48:10.252769,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,1
+2025-07-16 15:48:10.253307,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,2
+2025-07-15 15:48:10.253396,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,3
+2025-07-13 15:48:10.253481,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,5
+2025-07-07 15:48:10.253543,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,1
+2025-07-07 15:48:10.253599,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-03 15:48:10.253649,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-16 15:48:10.253696,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-22 15:48:10.253752,Patient reports feeling unstable and unable to concentrate.,depression,8,-0.25,8,2
+2025-07-27 15:48:10.253820,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,1
+2025-07-16 15:48:10.253902,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,1
+2025-06-29 15:48:10.253947,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,4
+2025-07-07 15:48:10.253999,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,3
+2025-07-20 15:48:10.254155,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,4
+2025-07-13 15:48:10.254203,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,1
+2025-07-24 15:48:10.254263,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,2
+2025-07-08 15:48:10.254396,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,1
+2025-07-06 15:48:10.254492,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,5
+2025-07-04 15:48:10.254549,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-05 15:48:10.254894,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,5
+2025-07-06 15:48:10.254969,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,4
+2025-07-18 15:48:10.255016,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,4
+2025-07-01 15:48:10.255066,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-28 15:48:10.255122,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,1
+2025-07-03 15:48:10.255174,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,4
+2025-07-28 15:48:10.255228,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,3
+2025-07-22 15:48:10.255372,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,5
+2025-07-05 15:48:10.255450,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,5
+2025-07-02 15:48:10.255519,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,1
+2025-07-26 15:48:10.255594,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,4
+2025-07-09 15:48:10.255658,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,5
+2025-07-05 15:48:10.255724,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,2
+2025-07-12 15:48:10.255769,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,4
+2025-07-18 15:48:10.255835,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,4
+2025-07-13 15:48:10.255889,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,1
+2025-07-29 15:48:10.255955,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,4
+2025-07-12 15:48:10.256136,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,3
+2025-07-27 15:48:10.256204,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,4
+2025-07-12 15:48:10.256253,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-11 15:48:10.256343,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,3
+2025-07-04 15:48:10.256423,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,2
+2025-07-27 15:48:10.256515,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,5
+2025-07-17 15:48:10.256603,"Patient indicates a lack of interest in activities, feeling anxious.",no depression,10,0.0516,10,3
+2025-07-23 15:48:10.256679,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,5
+2025-07-15 15:48:10.256945,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,2
+2025-07-15 15:48:10.257100,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,4
+2025-07-03 15:48:10.257154,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-04 15:48:10.257209,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,2
+2025-07-02 15:48:10.257275,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,2
+2025-07-21 15:48:10.257325,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,1
+2025-07-28 15:48:10.257383,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,2
+2025-07-27 15:48:10.257427,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,3
+2025-07-17 15:48:10.257482,"Patient has fluctuating moods, feeling overwhelmed.",depression,6,0.1779,6,4
+2025-07-28 15:48:10.257532,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,1
+2025-07-13 15:48:10.257587,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,4
+2025-07-05 15:48:10.257628,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,4
+2025-07-23 15:48:10.257685,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,3
+2025-07-04 15:48:10.257762,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,5
+2025-07-16 15:48:10.257809,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-09 15:48:10.257853,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,1
+2025-07-09 15:48:10.257905,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,1
+2025-07-02 15:48:10.257980,"Patient shows signs of depression, feeling overwhelmed and fatigued.",depression,9,-0.6597,9,4
+2025-07-01 15:48:10.258054,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,3
+2025-07-06 15:48:10.258096,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,4
+2025-07-02 15:48:10.258142,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-09 15:48:10.258201,Patient expressed feelings of being unstable and lacks motivation.,no depression,9,-0.0258,9,1
+2025-07-01 15:48:10.258306,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,1
+2025-07-06 15:48:10.258380,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,5
+2025-07-02 15:48:10.258460,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,4
+2025-06-30 15:48:10.258520,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,2
+2025-07-08 15:48:10.258626,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,1
+2025-07-18 15:48:10.258895,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-04 15:48:10.258942,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,5
+2025-07-23 15:48:10.258974,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,4
+2025-07-25 15:48:10.259322,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,1
+2025-07-04 15:48:10.264027,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,3
+2025-07-06 15:48:10.264297,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,5
+2025-07-05 15:48:10.275004,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,1
+2025-07-28 15:48:10.275115,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,5
+2025-07-20 15:48:10.275173,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,3
+2025-07-21 15:48:10.275225,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-26 15:48:10.275956,"Patient shows signs of depression, feeling overwhelmed and fatigued.",depression,9,-0.6597,9,4
+2025-07-05 15:48:10.276002,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,depression,11,0.0516,10,2
+2025-07-12 15:48:10.276041,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,4
+2025-07-18 15:48:10.276071,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,2
+2025-07-23 15:48:10.276101,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,2
+2025-07-25 15:48:10.276127,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,2
+2025-07-14 15:48:10.276147,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,5
+2025-07-17 15:48:10.276171,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,5
+2025-07-11 15:48:10.276204,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,2
+2025-07-15 15:48:10.276227,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,2
+2025-07-10 15:48:10.276249,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-19 15:48:10.276272,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,5
+2025-07-19 15:48:10.276293,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,5
+2025-07-09 15:48:10.276317,"Patient has fluctuating moods, feeling low.",no depression,6,-0.1531,6,3
+2025-07-05 15:48:10.276351,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,3
+2025-07-29 15:48:10.276388,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,5
+2025-07-10 15:48:10.276454,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,3
+2025-07-21 15:48:10.276488,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,2
+2025-07-11 15:48:10.276515,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,2
+2025-07-05 15:48:10.276879,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,2
+2025-07-29 15:48:10.276905,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-23 15:48:10.276928,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,2
+2025-07-26 15:48:10.276973,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,2
+2025-07-25 15:48:10.276999,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,3
+2025-07-27 15:48:10.277017,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,3
+2025-07-23 15:48:10.277044,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,4
+2025-07-26 15:48:10.277067,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,1
+2025-07-19 15:48:10.277089,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,5
+2025-07-29 15:48:10.277112,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,3
+2025-07-19 15:48:10.277130,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,2
+2025-07-18 15:48:10.277150,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-04 15:48:10.277187,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,1
+2025-07-22 15:48:10.277206,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,2
+2025-07-26 15:48:10.277242,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,4
+2025-07-26 15:48:10.277264,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,2
+2025-07-12 15:48:10.277290,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-07-26 15:48:10.277322,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,3
+2025-07-28 15:48:10.277345,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,5
+2025-07-01 15:48:10.277381,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,5
+2025-07-01 15:48:10.277399,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,5
+2025-07-14 15:48:10.277424,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,1
+2025-07-11 15:48:10.277452,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,5
+2025-07-14 15:48:10.277471,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-22 15:48:10.277509,"Patient indicates a lack of interest in activities, feeling low.",depression,10,0.0258,10,3
+2025-07-10 15:48:10.277532,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,3
+2025-07-09 15:48:10.277556,"Patient has fluctuating moods, feeling overwhelmed.",depression,6,0.1779,6,2
+2025-07-25 15:48:10.277592,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,3
+2025-07-17 15:48:10.277609,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,4
+2025-07-22 15:48:10.277628,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-01 15:48:10.277651,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,2
+2025-07-16 15:48:10.277683,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,1
+2025-07-23 15:48:10.277705,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,2
+2025-07-15 15:48:10.277724,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-18 15:48:10.277741,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,3
+2025-07-14 15:48:10.277765,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,1
+2025-07-24 15:48:10.277789,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-26 15:48:10.277811,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,2
+2025-07-24 15:48:10.277830,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-19 15:48:10.277853,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,5
+2025-07-16 15:48:10.277870,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,4
+2025-07-12 15:48:10.277888,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,5
+2025-07-28 15:48:10.277912,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-07-11 15:48:10.277941,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,2
+2025-07-28 15:48:10.277965,Patient expressed feelings of being unstable and lacks motivation.,no depression,9,-0.0258,9,2
+2025-06-30 15:48:10.277988,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,5
+2025-07-23 15:48:10.278007,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-19 15:48:10.278035,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,4
+2025-07-10 15:48:10.278072,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,3
+2025-07-08 15:48:10.278104,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,1
+2025-07-09 15:48:10.278126,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,5
+2025-07-26 15:48:10.278153,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,2
+2025-07-19 15:48:10.278172,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-21 15:48:10.278190,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,1
+2025-07-12 15:48:10.278208,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,depression,11,0.0516,10,3
+2025-07-22 15:48:10.278230,Patient reports feeling overwhelmed and unable to concentrate.,no depression,8,0.1779,8,2
+2025-07-18 15:48:10.278257,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,5
+2025-07-23 15:48:10.278290,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,1
+2025-07-14 15:48:10.278331,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,5
+2025-07-22 15:48:10.278355,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-04 15:48:10.278383,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-26 15:48:10.278402,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,1
+2025-06-29 15:48:10.278427,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,2
+2025-07-07 15:48:10.278447,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-02 15:48:10.278466,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,2
+2025-07-06 15:48:10.278498,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,2
+2025-07-04 15:48:10.278519,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,4
+2025-07-13 15:48:10.278554,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,4
+2025-07-17 15:48:10.278577,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,4
+2025-07-02 15:48:10.278604,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-25 15:48:10.278627,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,1
+2025-07-01 15:48:10.278649,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,5
+2025-07-05 15:48:10.278686,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,2
+2025-07-08 15:48:10.278713,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,5
+2025-07-18 15:48:10.278735,"Patient has fluctuating moods, feeling overwhelmed.",no depression,6,0.1779,6,1
+2025-07-22 15:48:10.278762,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-08 15:48:10.278784,"Patient has fluctuating moods, feeling overwhelmed.",no depression,6,0.1779,6,2
+2025-07-05 15:48:10.280457,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,2
+2025-07-13 15:48:10.280548,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-12 15:48:10.280762,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,2
+2025-07-27 15:48:10.280814,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,2
+2025-07-10 15:48:10.280840,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,5
+2025-07-10 15:48:10.280865,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,5
+2025-07-09 15:48:10.280886,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-14 15:48:10.280913,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,4
+2025-07-03 15:48:10.280992,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,2
+2025-07-27 15:48:10.281027,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,1
+2025-07-19 15:48:10.281058,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,4
+2025-06-30 15:48:10.281081,"Patient has fluctuating moods, feeling overwhelmed.",depression,6,0.1779,6,3
+2025-07-20 15:48:10.281106,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,1
+2025-07-09 15:48:10.281126,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-17 15:48:10.281152,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,3
+2025-07-01 15:48:10.281176,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-16 15:48:10.281196,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-16 15:48:10.281255,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,5
+2025-07-25 15:48:10.281289,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,2
+2025-07-05 15:48:10.281402,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,3
+2025-06-30 15:48:10.281439,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,4
+2025-07-17 15:48:10.281546,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,3
+2025-07-17 15:48:10.281638,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,1
+2025-07-02 15:48:10.281669,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,5
+2025-07-09 15:48:10.281693,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,4
+2025-07-02 15:48:10.281735,"Patient indicates a lack of interest in activities, feeling unstable.",no depression,10,-0.0772,10,4
+2025-07-21 15:48:10.281799,"Patient indicates a lack of interest in activities, feeling unstable.",depression,10,-0.0772,10,4
+2025-07-26 15:48:10.281829,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,3
+2025-07-06 15:48:10.281902,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,5
+2025-07-29 15:48:10.281950,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,3
+2025-07-06 15:48:10.281991,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,3
+2025-07-07 15:48:10.282021,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,3
+2025-07-19 15:48:10.282049,Patient reports feeling overwhelmed and unable to concentrate.,no depression,8,0.1779,8,5
+2025-07-19 15:48:10.282082,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,4
+2025-06-30 15:48:10.282110,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,5
+2025-07-06 15:48:10.282132,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,4
+2025-07-26 15:48:10.282157,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-26 15:48:10.282181,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,2
+2025-07-23 15:48:10.282216,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,2
+2025-07-14 15:48:10.282237,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-05 15:48:10.282257,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,2
+2025-07-27 15:48:10.282279,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,2
+2025-07-21 15:48:10.282376,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,1
+2025-07-26 15:48:10.282442,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,5
+2025-07-24 15:48:10.282480,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,4
+2025-07-12 15:48:10.282518,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,3
+2025-07-09 15:48:10.282555,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,3
+2025-07-28 15:48:10.282575,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-14 15:48:10.282607,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,5
+2025-07-13 15:48:10.282643,"Patient indicates a lack of interest in activities, feeling unstable.",depression,10,-0.0772,10,1
+2025-07-07 15:48:10.282663,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-06-30 15:48:10.282688,"Patient has fluctuating moods, feeling low.",no depression,6,-0.1531,6,3
+2025-07-03 15:48:10.282714,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,3
+2025-07-20 15:48:10.282736,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,3
+2025-07-10 15:48:10.282758,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,3
+2025-07-09 15:48:10.282777,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-21 15:48:10.282813,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,2
+2025-07-16 15:48:10.282836,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,5
+2025-07-12 15:48:10.282871,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,5
+2025-07-13 15:48:10.282891,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,4
+2025-07-10 15:48:10.282915,"Patient has fluctuating moods, feeling overwhelmed.",no depression,6,0.1779,6,2
+2025-07-19 15:48:10.282937,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,1
+2025-07-26 15:48:10.282966,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,2
+2025-07-07 15:48:10.282987,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,1
+2025-07-28 15:48:10.283024,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,1
+2025-07-03 15:48:10.283043,Patient feels anxious; a referral to a psychiatrist may be necessary.,no depression,11,-0.25,10,3
+2025-07-20 15:48:10.283070,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,4
+2025-07-04 15:48:10.283092,"Patient has fluctuating moods, feeling overwhelmed.",no depression,6,0.1779,6,2
+2025-07-10 15:48:10.283114,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,1
+2025-07-12 15:48:10.283136,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,3
+2025-07-04 15:48:10.283158,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,5
+2025-07-07 15:48:10.283180,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,5
+2025-07-22 15:48:10.283198,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,3
+2025-07-17 15:48:10.283216,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,4
+2025-07-02 15:48:10.283240,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,2
+2025-07-16 15:48:10.283261,Patient reports feeling unstable and unable to concentrate.,depression,8,-0.25,8,3
+2025-07-29 15:48:10.283281,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,3
+2025-07-05 15:48:10.283301,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,1
+2025-07-03 15:48:10.283321,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,1
+2025-07-04 15:48:10.283347,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,4
+2025-07-04 15:48:10.283369,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,2
+2025-07-07 15:48:10.283388,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,2
+2025-07-07 15:48:10.283421,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,1
+2025-07-19 15:48:10.283451,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,4
+2025-07-04 15:48:10.283479,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,4
+2025-07-29 15:48:10.283499,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-29 15:48:10.283516,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,1
+2025-07-17 15:48:10.283534,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-16 15:48:10.283570,"Patient indicates a lack of interest in activities, feeling anxious.",depression,10,0.0516,10,4
+2025-07-04 15:48:10.283606,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,2
+2025-07-05 15:48:10.283626,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,4
+2025-07-27 15:48:10.283650,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,5
+2025-07-22 15:48:10.283681,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,5
+2025-07-04 15:48:10.283701,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,3
+2025-07-02 15:48:10.283719,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,1
+2025-07-14 15:48:10.283738,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-19 15:48:10.283758,Patient reports feeling low and unable to concentrate.,no depression,8,-0.1531,8,5
+2025-07-13 15:48:10.283789,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,2
+2025-07-11 15:48:10.283872,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,2
+2025-07-28 15:48:10.283894,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,4
+2025-07-12 15:48:10.283921,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,2
+2025-06-30 15:48:10.284184,Patient reports feeling overwhelmed and unable to concentrate.,no depression,8,0.1779,8,5
+2025-07-21 15:48:10.284260,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,3
+2025-07-05 15:48:10.284292,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,4
+2025-07-11 15:48:10.284315,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,3
+2025-06-30 15:48:10.284357,"Patient indicates a lack of interest in activities, feeling low.",depression,10,0.0258,10,1
+2025-07-17 15:48:10.284394,"Patient indicates a lack of interest in activities, feeling unstable.",no depression,10,-0.0772,10,1
+2025-07-08 15:48:10.284425,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,3
+2025-07-23 15:48:10.284454,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,4
+2025-07-11 15:48:10.284476,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,5
+2025-07-28 15:48:10.284504,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,1
+2025-07-02 15:48:10.284529,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-24 15:48:10.284554,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,1
+2025-07-10 15:48:10.284586,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,4
+2025-07-06 15:48:10.284607,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-07 15:48:10.284630,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,5
+2025-07-08 15:48:10.284666,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,3
+2025-07-20 15:48:10.284697,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,5
+2025-07-25 15:48:10.284715,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-11 15:48:10.284734,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,4
+2025-06-30 15:48:10.284759,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-06-29 15:48:10.284789,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,2
+2025-07-14 15:48:10.284816,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,3
+2025-07-14 15:48:10.284845,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,2
+2025-07-04 15:48:10.284862,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,4
+2025-07-27 15:48:10.284891,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,3
+2025-07-02 15:48:10.284909,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,1
+2025-07-05 15:48:10.284934,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,2
+2025-07-04 15:48:10.284960,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,1
+2025-07-01 15:48:10.284982,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,4
+2025-07-17 15:48:10.285005,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,2
+2025-07-25 15:48:10.285026,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,5
+2025-07-28 15:48:10.285055,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,4
+2025-07-20 15:48:10.285073,Patient feels anxious; a referral to a psychiatrist may be necessary.,no depression,11,-0.25,10,2
+2025-07-10 15:48:10.285089,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,1
+2025-07-23 15:48:10.285113,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,2
+2025-07-17 15:48:10.285136,Patient expressed feelings of being anxious and lacks motivation.,no depression,9,0.1027,9,3
+2025-07-24 15:48:10.285157,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,1
+2025-07-19 15:48:10.285180,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,2
+2025-07-18 15:48:10.285210,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,1
+2025-06-29 15:48:10.285245,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,5
+2025-07-11 15:48:10.285279,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,2
+2025-07-11 15:48:10.285305,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,4
+2025-07-03 15:48:10.285328,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,4
+2025-07-13 15:48:10.285361,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,5
+2025-07-10 15:48:10.285379,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,4
+2025-07-14 15:48:10.285404,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,2
+2025-07-24 15:48:10.285424,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,1
+2025-07-23 15:48:10.285445,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,5
+2025-07-27 15:48:10.285464,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-23 15:48:10.285481,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,2
+2025-07-09 15:48:10.285503,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,1
+2025-07-25 15:48:10.285526,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,3
+2025-07-11 15:48:10.285546,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,2
+2025-07-08 15:48:10.285678,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,4
+2025-07-02 15:48:10.285725,"Patient indicates a lack of interest in activities, feeling unstable.",no depression,10,-0.0772,10,5
+2025-07-21 15:48:10.285758,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,2
+2025-06-29 15:48:10.285785,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,3
+2025-07-24 15:48:10.285811,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,3
+2025-07-15 15:48:10.285849,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,5
+2025-07-27 15:48:10.285870,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,2
+2025-07-21 15:48:10.285893,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,2
+2025-07-18 15:48:10.285929,"Patient indicates a lack of interest in activities, feeling unstable.",depression,10,-0.0772,10,2
+2025-07-07 15:48:10.285966,"Patient indicates a lack of interest in activities, feeling anxious.",depression,10,0.0516,10,1
+2025-07-13 15:48:10.285989,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,1
+2025-06-30 15:48:10.286009,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,4
+2025-07-22 15:48:10.286028,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,3
+2025-07-08 15:48:10.286051,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,3
+2025-07-17 15:48:10.286084,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,2
+2025-07-04 15:48:10.286114,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,4
+2025-07-29 15:48:10.286150,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,5
+2025-07-20 15:48:10.286168,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,3
+2025-07-16 15:48:10.286189,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,5
+2025-07-17 15:48:10.286208,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-02 15:48:10.286229,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-23 15:48:10.286259,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,3
+2025-07-16 15:48:10.286275,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,3
+2025-07-23 15:48:10.286293,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-03 15:48:10.286311,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-15 15:48:10.286340,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,2
+2025-07-02 15:48:10.286358,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-03 15:48:10.286382,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,2
+2025-07-12 15:48:10.286404,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,2
+2025-07-06 15:48:10.286424,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,5
+2025-07-08 15:48:10.286441,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,2
+2025-07-09 15:48:10.286458,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,2
+2025-07-14 15:48:10.286476,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-13 15:48:10.286496,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,2
+2025-07-10 15:48:10.286531,"Patient indicates a lack of interest in activities, feeling unstable.",depression,10,-0.0772,10,5
+2025-07-26 15:48:10.286565,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,5
+2025-07-24 15:48:10.286582,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-20 15:48:10.286616,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,4
+2025-06-30 15:48:10.286648,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,4
+2025-07-23 15:48:10.286666,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-04 15:48:10.286700,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,2
+2025-07-21 15:48:10.286720,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,3
+2025-07-20 15:48:10.286737,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,2
+2025-07-14 15:48:10.286771,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,4
+2025-07-27 15:48:10.286795,Patient expressed feelings of being anxious and lacks motivation.,no depression,9,0.1027,9,1
+2025-07-05 15:48:10.286825,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,5
+2025-07-28 15:48:10.286851,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,1
+2025-07-27 15:48:10.286872,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,2
+2025-07-14 15:48:10.294218,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,2
+2025-07-26 15:48:10.294283,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,3
+2025-07-08 15:48:10.294313,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-08 15:48:10.294343,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-07-22 15:48:10.294366,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-14 15:48:10.294384,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-06 15:48:10.294402,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-06-30 15:48:10.294435,"Patient shows signs of depression, feeling overwhelmed and fatigued.",depression,9,-0.6597,9,2
+2025-07-16 15:48:10.294458,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,4
+2025-07-24 15:48:10.294489,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,3
+2025-07-11 15:48:10.294512,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,3
+2025-07-22 15:48:10.294533,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,1
+2025-07-02 15:48:10.294563,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,3
+2025-07-22 15:48:10.294585,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,5
+2025-07-16 15:48:10.294613,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,4
+2025-07-15 15:48:10.294637,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,2
+2025-07-04 15:48:10.294659,Patient reports feeling anxious and unable to concentrate.,depression,8,-0.128,8,1
+2025-07-08 15:48:10.294685,Patient has been experiencing low thoughts and needs support.,depression,9,0.1531,9,3
+2025-07-07 15:48:10.294704,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-01 15:48:10.294722,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-14 15:48:10.294745,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-07-22 15:48:10.294767,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,1
+2025-07-25 15:48:10.294797,"Patient shows signs of depression, feeling overwhelmed and fatigued.",depression,9,-0.6597,9,4
+2025-07-11 15:48:10.294814,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,2
+2025-07-23 15:48:10.294831,Patient feels anxious; a referral to a psychiatrist may be necessary.,no depression,11,-0.25,10,3
+2025-07-23 15:48:10.294860,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,4
+2025-07-04 15:48:10.294878,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-12 15:48:10.294900,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,5
+2025-07-07 15:48:10.294921,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,5
+2025-07-08 15:48:10.294959,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,4
+2025-07-01 15:48:10.294976,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-29 15:48:10.295003,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,5
+2025-07-07 15:48:10.295030,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,2
+2025-07-03 15:48:10.295052,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,3
+2025-07-11 15:48:10.295082,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,1
+2025-07-14 15:48:10.295106,Patient expressed feelings of being unstable and lacks motivation.,depression,9,-0.0258,9,5
+2025-07-24 15:48:10.295130,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-07-28 15:48:10.295151,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,5
+2025-07-28 15:48:10.295200,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,5
+2025-07-08 15:48:10.295271,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,1
+2025-07-11 15:48:10.295293,Patient feels low; a referral to a psychiatrist may be necessary.,depression,11,-0.2732,10,3
+2025-07-20 15:48:10.295319,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,5
+2025-07-22 15:48:10.295342,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,2
+2025-07-01 15:48:10.295360,Patient feels anxious; a referral to a psychiatrist may be necessary.,no depression,11,-0.25,10,4
+2025-07-23 15:48:10.295382,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-12 15:48:10.295422,"Patient indicates a lack of interest in activities, feeling anxious.",no depression,10,0.0516,10,4
+2025-07-29 15:48:10.295451,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,4
+2025-07-17 15:48:10.295470,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-15 15:48:10.295488,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,2
+2025-07-08 15:48:10.295525,"Patient indicates a lack of interest in activities, feeling low.",depression,10,0.0258,10,4
+2025-07-24 15:48:10.295556,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,2
+2025-07-03 15:48:10.295575,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-06-30 15:48:10.295605,"Patient shows signs of depression, feeling better and fatigued.",depression,9,-0.4019,9,3
+2025-07-17 15:48:10.295628,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,2
+2025-07-11 15:48:10.295646,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-16 15:48:10.295663,Patient feels anxious; a referral to a psychiatrist may be necessary.,no depression,11,-0.25,10,2
+2025-07-26 15:48:10.295686,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,4
+2025-07-13 15:48:10.295712,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,5
+2025-07-13 15:48:10.295729,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,1
+2025-07-11 15:48:10.295748,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-03 15:48:10.295764,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,2
+2025-07-02 15:48:10.295787,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,4
+2025-07-10 15:48:10.295803,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,5
+2025-07-04 15:48:10.295830,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,1
+2025-07-09 15:48:10.295853,Patient expressed feelings of being unstable and lacks motivation.,no depression,9,-0.0258,9,3
+2025-06-29 15:48:10.295871,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-01 15:48:10.295894,Patient expressed feelings of being anxious and lacks motivation.,no depression,9,0.1027,9,4
+2025-07-16 15:48:10.295921,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,3
+2025-07-27 15:48:10.295951,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,4
+2025-06-30 15:48:10.295975,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,2
+2025-07-05 15:48:10.296000,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,1
+2025-07-22 15:48:10.296036,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,1
+2025-07-06 15:48:10.296057,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,2
+2025-07-27 15:48:10.296078,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,2
+2025-07-14 15:48:10.296100,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,1
+2025-07-26 15:48:10.296127,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,3
+2025-07-22 15:48:10.296144,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,2
+2025-07-14 15:48:10.296162,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-16 15:48:10.296196,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,5
+2025-06-29 15:48:10.296230,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,2
+2025-07-21 15:48:10.296249,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-06-30 15:48:10.296278,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,4
+2025-07-02 15:48:10.296301,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,3
+2025-07-07 15:48:10.296319,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,2
+2025-07-22 15:48:10.296351,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,5
+2025-07-16 15:48:10.296368,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-27 15:48:10.296388,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,3
+2025-07-17 15:48:10.296409,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,3
+2025-07-15 15:48:10.296432,Patient expressed feelings of being anxious and lacks motivation.,depression,9,0.1027,9,3
+2025-07-21 15:48:10.296448,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,1
+2025-07-11 15:48:10.296481,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,1
+2025-07-06 15:48:10.296510,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,1
+2025-07-22 15:48:10.296541,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,1
+2025-07-19 15:48:10.296561,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,2
+2025-07-19 15:48:10.296578,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,1
+2025-07-25 15:48:10.296601,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,5
+2025-07-05 15:48:10.296626,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-10 15:48:10.296642,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-20 15:48:10.296671,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,3
+2025-07-16 15:48:10.296690,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,3
+2025-07-15 15:48:10.296723,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,2
+2025-07-05 15:48:10.296744,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,4
+2025-07-02 15:48:10.296769,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,4
+2025-07-29 15:48:10.296784,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,4
+2025-07-24 15:48:10.296801,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-21 15:48:10.296833,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-07-01 15:48:10.296880,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,4
+2025-07-19 15:48:10.296904,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-10 15:48:10.296945,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,5
+2025-07-29 15:48:10.296969,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-22 15:48:10.297001,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,3
+2025-07-29 15:48:10.297029,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,1
+2025-07-11 15:48:10.297059,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,5
+2025-07-19 15:48:10.297090,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,4
+2025-07-17 15:48:10.297118,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,3
+2025-07-10 15:48:10.297146,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,5
+2025-07-12 15:48:10.297187,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,4
+2025-07-11 15:48:10.297211,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-01 15:48:10.297252,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,5
+2025-07-18 15:48:10.297276,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-07 15:48:10.297307,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,2
+2025-07-27 15:48:10.297355,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,5
+2025-07-29 15:48:10.297396,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,3
+2025-07-20 15:48:10.297428,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,1
+2025-07-28 15:48:10.297450,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,3
+2025-07-24 15:48:10.297478,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,5
+2025-07-03 15:48:10.297500,Patient feels anxious; a referral to a psychiatrist may be necessary.,no depression,11,-0.25,10,2
+2025-07-19 15:48:10.297540,"Patient shows signs of depression, feeling hopeful and fatigued.",depression,9,-0.3182,9,1
+2025-07-29 15:48:10.297575,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,2
+2025-07-08 15:48:10.297615,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,3
+2025-06-29 15:48:10.297645,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,5
+2025-07-26 15:48:10.297670,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-14 15:48:10.297704,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-07-18 15:48:10.297736,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,4
+2025-07-17 15:48:10.297786,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,1
+2025-07-08 15:48:10.297809,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,2
+2025-07-08 15:48:10.297849,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,2
+2025-07-24 15:48:10.297872,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,1
+2025-07-20 15:48:10.297918,"Patient indicates a lack of interest in activities, feeling anxious.",no depression,10,0.0516,10,3
+2025-07-07 15:48:10.297965,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,2
+2025-07-21 15:48:10.297988,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,5
+2025-07-03 15:48:10.298015,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,4
+2025-07-07 15:48:10.298052,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,5
+2025-07-02 15:48:10.298082,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,1
+2025-07-25 15:48:10.298109,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,4
+2025-07-10 15:48:10.298133,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,3
+2025-07-27 15:48:10.298155,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,depression,11,0.0516,10,5
+2025-07-16 15:48:10.298180,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-18 15:48:10.298214,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-07-21 15:48:10.298236,Patient feels sad; a referral to a psychiatrist may be necessary.,depression,11,-0.4767,10,5
+2025-07-07 15:48:10.298258,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,3
+2025-07-22 15:48:10.298293,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,2
+2025-07-24 15:48:10.298322,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,4
+2025-07-22 15:48:10.298351,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,4
+2025-06-29 15:48:10.298391,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,2
+2025-07-27 15:48:10.298420,Patient reports feeling overwhelmed and unable to concentrate.,no depression,8,0.1779,8,3
+2025-07-27 15:48:10.298465,"Patient indicates a lack of interest in activities, feeling unstable.",no depression,10,-0.0772,10,5
+2025-07-15 15:48:10.298494,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,4
+2025-06-30 15:48:10.298527,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-07-06 15:48:10.298556,Patient expressed feelings of being low and lacks motivation.,no depression,9,0.0772,9,1
+2025-06-30 15:48:10.298579,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-08 15:48:10.298607,Patient expressed feelings of being low and lacks motivation.,depression,9,0.0772,9,5
+2025-07-27 15:48:10.298645,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,5
+2025-07-05 15:48:10.298679,Patient has been experiencing hopeful thoughts and needs support.,no depression,9,0.7184,9,1
+2025-07-19 15:48:10.298725,"Patient indicates a lack of interest in activities, feeling hopeful.",no depression,10,0.6705,10,1
+2025-07-12 15:48:10.298754,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,2
+2025-07-21 15:48:10.298794,"Patient shows signs of depression, feeling overwhelmed and fatigued.",depression,9,-0.6597,9,3
+2025-07-09 15:48:10.298833,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,1
+2025-07-12 15:48:10.298859,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,3
+2025-07-26 15:48:10.298881,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,4
+2025-07-14 15:48:10.298926,"Patient indicates a lack of interest in activities, feeling unstable.",no depression,10,-0.0772,10,2
+2025-07-22 15:48:10.298956,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,1
+2025-06-29 15:48:10.298989,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,4
+2025-07-04 15:48:10.299017,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,5
+2025-07-29 15:48:10.299057,"Patient has fluctuating moods, feeling unstable.",no depression,6,-0.25,6,3
+2025-07-25 15:48:10.299080,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-06-29 15:48:10.299108,"Patient has fluctuating moods, feeling anxious.",depression,6,-0.128,6,1
+2025-07-05 15:48:10.299129,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,depression,11,0.0516,10,1
+2025-07-22 15:48:10.299152,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-22 15:48:10.299174,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-26 15:48:10.299219,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,5
+2025-07-06 15:48:10.299267,"Patient indicates a lack of interest in activities, feeling low.",no depression,10,0.0258,10,2
+2025-07-09 15:48:10.299301,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,5
+2025-07-22 15:48:10.299339,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,3
+2025-07-05 15:48:10.299369,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,1
+2025-07-19 15:48:10.299391,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,5
+2025-07-13 15:48:10.299428,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,4
+2025-07-07 15:48:10.299454,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,4
+2025-06-29 15:48:10.299482,"Patient has fluctuating moods, feeling overwhelmed.",depression,6,0.1779,6,3
+2025-07-14 15:48:10.299510,"Patient has fluctuating moods, feeling overwhelmed.",depression,6,0.1779,6,1
+2025-07-21 15:48:10.299547,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,1
+2025-07-12 15:48:10.299584,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,1
+2025-06-30 15:48:10.299613,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,5
+2025-07-15 15:48:10.299648,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,5
+2025-07-20 15:48:10.299668,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-11 15:48:10.299685,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-29 15:48:10.299706,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,3
+2025-07-21 15:48:10.299735,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,4
+2025-07-16 15:48:10.299751,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,depression,11,0.0516,10,4
+2025-07-01 15:48:10.299784,"Patient indicates a lack of interest in activities, feeling better.",no depression,10,0.6249,10,3
+2025-07-27 15:48:10.299808,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,1
+2025-07-21 15:48:10.299831,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,5
+2025-07-05 15:48:10.299861,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,1
+2025-07-07 15:48:10.299886,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,2
+2025-07-21 15:48:10.299914,"Patient shows signs of depression, feeling sad and fatigued.",depression,9,-0.8271,9,3
+2025-07-12 15:48:10.299946,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,3
+2025-06-30 15:48:10.299965,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,3
+2025-07-05 15:48:10.299997,"Patient indicates a lack of interest in activities, feeling isolated.",depression,10,-0.0258,10,5
+2025-07-17 15:48:10.300015,Patient reports feeling sad and unable to concentrate.,depression,8,-0.3818,8,5
+2025-07-17 15:48:10.300037,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,2
+2025-07-14 15:48:10.300058,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,5
+2025-07-06 15:48:10.300074,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,3
+2025-07-07 15:48:10.300091,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,1
+2025-07-23 15:48:10.300107,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-07 15:48:10.300128,"Patient has fluctuating moods, feeling overwhelmed.",depression,6,0.1779,6,4
+2025-07-25 15:48:10.300147,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,1
+2025-07-29 15:48:10.300168,Patient expressed feelings of being hopeful and lacks motivation.,no depression,9,0.6908,9,4
+2025-07-10 15:48:10.300200,"Patient indicates a lack of interest in activities, feeling sad.",depression,10,-0.2263,10,1
+2025-07-07 15:48:10.300219,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,3
+2025-07-21 15:48:10.300234,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,3
+2025-07-09 15:48:10.300251,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-06-30 15:48:10.300272,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,1
+2025-07-17 15:48:10.300289,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-02 15:48:10.300320,"Patient shows signs of depression, feeling overwhelmed and fatigued.",depression,9,-0.6597,9,5
+2025-07-19 15:48:10.300340,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,4
+2025-07-25 15:48:10.300367,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,2
+2025-07-02 15:48:10.300394,"Patient has fluctuating moods, feeling unstable.",depression,6,-0.25,6,1
+2025-07-15 15:48:10.300428,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,4
+2025-07-12 15:48:10.300465,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,4
+2025-07-07 15:48:10.300502,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,3
+2025-07-12 15:48:10.300528,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,1
+2025-06-29 15:48:10.300550,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-05 15:48:10.300578,"Patient has fluctuating moods, feeling low.",depression,6,-0.1531,6,1
+2025-07-05 15:48:10.300604,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,4
+2025-07-16 15:48:10.300625,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,2
+2025-07-02 15:48:10.300658,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-24 15:48:10.300691,Patient has been experiencing anxious thoughts and needs support.,depression,9,0.1779,9,5
+2025-07-17 15:48:10.300729,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,1
+2025-07-04 15:48:10.300755,Patient reports feeling unstable and unable to concentrate.,no depression,8,-0.25,8,5
+2025-07-23 15:48:10.300787,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,4
+2025-07-11 15:48:10.300815,"Patient has fluctuating moods, feeling low.",no depression,6,-0.1531,6,4
+2025-07-09 15:48:10.300847,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,5
+2025-06-29 15:48:10.300921,"Patient shows signs of depression, feeling low and fatigued.",depression,9,-0.7717,9,2
+2025-07-16 15:48:10.300967,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,5
+2025-07-28 15:48:10.301002,"Patient has fluctuating moods, feeling overwhelmed.",no depression,6,0.1779,6,4
+2025-07-24 15:48:10.301025,"Patient has fluctuating moods, feeling hopeful.",no depression,6,0.5859,6,4
+2025-07-01 15:48:10.301048,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,5
+2025-07-12 15:48:10.301070,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,3
+2025-07-04 15:48:10.301092,Patient feels low; a referral to a psychiatrist may be necessary.,depression,11,-0.2732,10,3
+2025-07-22 15:48:10.301121,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,5
+2025-07-07 15:48:10.301142,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-23 15:48:10.301160,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-17 15:48:10.301182,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,2
+2025-07-02 15:48:10.301222,"Patient indicates a lack of interest in activities, feeling unstable.",no depression,10,-0.0772,10,5
+2025-07-07 15:48:10.301258,"Patient indicates a lack of interest in activities, feeling anxious.",no depression,10,0.0516,10,5
+2025-07-28 15:48:10.301276,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-15 15:48:10.301293,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-16 15:48:10.301310,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-03 15:48:10.301332,Patient reports feeling isolated and unable to concentrate.,depression,8,-0.2023,8,3
+2025-07-21 15:48:10.301366,"Patient indicates a lack of interest in activities, feeling unstable.",depression,10,-0.0772,10,2
+2025-06-30 15:48:10.301385,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,4
+2025-07-20 15:48:10.301406,Patient reports feeling anxious and unable to concentrate.,no depression,8,-0.128,8,3
+2025-07-20 15:48:10.301423,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,no depression,11,0.0516,10,4
+2025-07-05 15:48:10.301444,Patient reports feeling unstable and unable to concentrate.,depression,8,-0.25,8,1
+2025-07-25 15:48:10.301471,Patient has been experiencing isolated thoughts and needs support.,depression,9,0.1027,9,3
+2025-07-26 15:48:10.301497,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-28 15:48:10.301521,Patient expressed feelings of being anxious and lacks motivation.,no depression,9,0.1027,9,2
+2025-06-30 15:48:10.301538,Patient feels low; a referral to a psychiatrist may be necessary.,no depression,11,-0.2732,10,3
+2025-07-03 15:48:10.301556,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,5
+2025-07-20 15:48:10.301581,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,2
+2025-07-29 15:48:10.301619,"Patient indicates a lack of interest in activities, feeling anxious.",depression,10,0.0516,10,5
+2025-07-27 15:48:10.301662,"Patient indicates a lack of interest in activities, feeling overwhelmed.",no depression,10,0.34,10,4
+2025-07-26 15:48:10.301691,Patient reports feeling overwhelmed and unable to concentrate.,depression,8,0.1779,8,3
+2025-06-30 15:48:10.301722,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,3
+2025-07-16 15:48:10.301745,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-15 15:48:10.301776,Patient expressed feelings of being unstable and lacks motivation.,depression,9,-0.0258,9,2
+2025-07-26 15:48:10.301817,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,4
+2025-07-21 15:48:10.301846,Patient expressed feelings of being isolated and lacks motivation.,depression,9,0.0258,9,4
+2025-07-10 15:48:10.301873,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-08 15:48:10.301913,"Patient shows signs of depression, feeling unstable and fatigued.",depression,9,-0.7964,9,4
+2025-07-26 15:48:10.301949,Patient has been experiencing unstable thoughts and needs support.,depression,9,0.0516,9,5
+2025-07-11 15:48:10.301969,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,2
+2025-07-13 15:48:10.301990,"Patient has fluctuating moods, feeling sad.",depression,6,-0.3818,6,3
+2025-07-02 15:48:10.302013,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,3
+2025-07-23 15:48:10.302030,Patient feels overwhelmed; a referral to a psychiatrist may be necessary.,depression,11,0.0516,10,2
+2025-07-09 15:48:10.302056,Patient has been experiencing better thoughts and needs support.,no depression,9,0.6808,9,5
+2025-07-14 15:48:10.302076,Patient reports feeling low and unable to concentrate.,depression,8,-0.1531,8,5
+2025-07-06 15:48:10.302099,Patient expressed feelings of being overwhelmed and lacks motivation.,no depression,9,0.3818,9,3
+2025-07-18 15:48:10.302117,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,4
+2025-07-15 15:48:10.302152,"Patient indicates a lack of interest in activities, feeling unstable.",depression,10,-0.0772,10,2
+2025-06-29 15:48:10.302174,"Patient has fluctuating moods, feeling anxious.",no depression,6,-0.128,6,2
+2025-07-08 15:48:10.302199,Patient has been experiencing unstable thoughts and needs support.,no depression,9,0.0516,9,4
+2025-07-11 15:48:10.302217,Patient feels unstable; a referral to a psychiatrist may be necessary.,no depression,11,-0.3612,10,2
+2025-07-10 15:48:10.302248,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,2
+2025-07-22 15:48:10.302271,Patient expressed feelings of being sad and lacks motivation.,depression,9,-0.1779,9,1
+2025-07-06 15:48:10.302297,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,5
+2025-07-02 15:48:10.302319,Patient feels anxious; a referral to a psychiatrist may be necessary.,no depression,11,-0.25,10,3
+2025-07-02 15:48:10.302348,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,5
+2025-07-02 15:48:10.302380,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,5
+2025-07-20 15:48:10.302407,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,4
+2025-07-01 15:48:10.302434,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,5
+2025-07-24 15:48:10.302457,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,2
+2025-07-16 15:48:10.302477,Patient feels isolated; a referral to a psychiatrist may be necessary.,depression,11,-0.3182,10,5
+2025-07-14 15:48:10.302499,Patient feels better; a referral to a psychiatrist may be necessary.,no depression,11,0.4404,10,3
+2025-07-27 15:48:10.302533,Patient has been experiencing anxious thoughts and needs support.,no depression,9,0.1779,9,4
+2025-07-26 15:48:10.302560,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,1
+2025-07-12 15:48:10.302586,Patient reports feeling unstable and unable to concentrate.,depression,8,-0.25,8,3
+2025-07-15 15:48:10.302624,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,4
+2025-07-16 15:48:10.302660,"Patient shows signs of depression, feeling isolated and fatigued.",depression,9,-0.7845,9,1
+2025-07-15 15:48:10.302681,Patient feels anxious; a referral to a psychiatrist may be necessary.,depression,11,-0.25,10,2
+2025-07-08 15:48:10.302710,Patient expressed feelings of being better and lacks motivation.,no depression,9,0.6486,9,1
+2025-07-12 15:48:10.302731,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,5
+2025-07-10 15:48:10.302765,Patient has been experiencing overwhelmed thoughts and needs support.,no depression,9,0.4404,9,4
+2025-07-25 15:48:10.302802,"Patient shows signs of depression, feeling anxious and fatigued.",depression,9,-0.765,9,4
+2025-07-26 15:48:10.302828,"Patient has fluctuating moods, feeling better.",no depression,6,0.5267,6,5
+2025-07-26 15:48:10.302850,Patient demonstrated symptoms of depression; further assessment needed.,depression,8,-0.5719,8,3
+2025-07-08 15:48:10.302876,"Patient has fluctuating moods, feeling isolated.",depression,6,-0.2023,6,2
+2025-07-29 15:48:10.302896,Patient feels hopeful; a referral to a psychiatrist may be necessary.,no depression,11,0.5106,10,2
+2025-07-17 15:48:10.302922,Patient reports feeling hopeful and unable to concentrate.,no depression,8,0.5859,8,3
+2025-07-19 15:48:10.302943,Patient feels unstable; a referral to a psychiatrist may be necessary.,depression,11,-0.3612,10,1
+2025-07-18 15:48:10.302973,Patient has been experiencing sad thoughts and needs support.,depression,9,-0.1027,9,2
+2025-07-01 15:48:10.302993,Patient reports feeling better and unable to concentrate.,no depression,8,0.5267,8,3

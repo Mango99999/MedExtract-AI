@@ -1,0 +1,1001 @@
+timestamp,text,label,response_length,sentiment,interaction_depth,turn_taking_frequency
+2025-06-30 15:48:10.304255,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,1
+2025-07-26 15:48:10.304286,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,3
+2025-07-20 15:48:10.304337,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,4
+2025-07-22 15:48:10.304375,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,3
+2025-07-27 15:48:10.304404,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,4
+2025-07-06 15:48:10.304427,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0,15,2
+2025-07-15 15:48:10.304470,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,4
+2025-07-19 15:48:10.304514,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,4
+2025-07-11 15:48:10.304555,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,1
+2025-07-06 15:48:10.304606,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,5
+2025-07-16 15:48:10.304647,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,1
+2025-07-04 15:48:10.304691,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,2
+2025-07-25 15:48:10.304729,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,3
+2025-07-29 15:48:10.304755,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,3
+2025-07-27 15:48:10.304798,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,3
+2025-07-24 15:48:10.304829,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,2
+2025-07-20 15:48:10.304871,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,3
+2025-07-15 15:48:10.304907,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,5
+2025-07-06 15:48:10.304936,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,3
+2025-07-06 15:48:10.304980,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,5
+2025-07-01 15:48:10.305023,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,3
+2025-07-08 15:48:10.305060,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,5
+2025-07-01 15:48:10.305094,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,1
+2025-07-03 15:48:10.305116,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,5
+2025-07-22 15:48:10.305149,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,3
+2025-07-20 15:48:10.305192,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,2
+2025-07-20 15:48:10.305217,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,4
+2025-07-25 15:48:10.305245,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.0516,14,2
+2025-07-19 15:48:10.305271,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,4
+2025-07-05 15:48:10.305293,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,1
+2025-07-24 15:48:10.305315,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,4
+2025-07-25 15:48:10.305348,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,5
+2025-07-17 15:48:10.305380,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,1
+2025-07-09 15:48:10.305400,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,1
+2025-07-26 15:48:10.305436,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,3
+2025-07-22 15:48:10.305454,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,1
+2025-07-17 15:48:10.305486,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,3
+2025-07-21 15:48:10.305518,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,1
+2025-07-06 15:48:10.305545,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,3
+2025-07-23 15:48:10.305568,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,2
+2025-07-03 15:48:10.305596,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,1
+2025-07-08 15:48:10.305619,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,3
+2025-06-29 15:48:10.305646,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,4
+2025-07-06 15:48:10.305683,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,4
+2025-07-29 15:48:10.305719,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,1
+2025-07-28 15:48:10.305754,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,3
+2025-07-16 15:48:10.305787,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,5
+2025-07-05 15:48:10.305821,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-12 15:48:10.305849,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,3
+2025-06-30 15:48:10.305878,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,3
+2025-06-29 15:48:10.305904,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,1
+2025-07-25 15:48:10.305937,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,2
+2025-07-14 15:48:10.305973,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,2
+2025-07-13 15:48:10.306008,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-09 15:48:10.306027,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,1
+2025-07-12 15:48:10.306059,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,2
+2025-07-19 15:48:10.306073,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,3
+2025-07-15 15:48:10.306105,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,4
+2025-07-26 15:48:10.306131,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,2
+2025-07-09 15:48:10.306166,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,5
+2025-07-23 15:48:10.306197,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,5
+2025-07-29 15:48:10.306234,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,2
+2025-07-29 15:48:10.306256,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,4
+2025-07-12 15:48:10.306297,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,2
+2025-07-06 15:48:10.306335,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,5
+2025-07-28 15:48:10.306369,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,4
+2025-07-17 15:48:10.306403,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,2
+2025-07-15 15:48:10.306445,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,3
+2025-07-08 15:48:10.306477,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,3
+2025-07-03 15:48:10.306508,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,4
+2025-07-27 15:48:10.306541,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,2
+2025-07-11 15:48:10.306563,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,1
+2025-07-07 15:48:10.306590,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,4
+2025-07-28 15:48:10.306618,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,1
+2025-07-18 15:48:10.306644,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,5
+2025-07-28 15:48:10.306676,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,3
+2025-07-05 15:48:10.306697,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,4
+2025-07-20 15:48:10.306730,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,5
+2025-07-11 15:48:10.306754,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,5
+2025-07-13 15:48:10.306775,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,4
+2025-07-17 15:48:10.306809,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,1
+2025-07-05 15:48:10.306841,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,1
+2025-06-30 15:48:10.306873,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,3
+2025-06-29 15:48:10.306894,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,5
+2025-07-27 15:48:10.306927,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,5
+2025-07-28 15:48:10.306967,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,4
+2025-07-27 15:48:10.307011,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,3
+2025-07-27 15:48:10.307053,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,3
+2025-07-13 15:48:10.307074,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,5
+2025-07-12 15:48:10.307114,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,4
+2025-07-04 15:48:10.307157,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,5
+2025-07-29 15:48:10.307196,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,2
+2025-07-28 15:48:10.307238,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,3
+2025-07-25 15:48:10.307281,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,5
+2025-07-22 15:48:10.307301,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,3
+2025-07-15 15:48:10.307340,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,5
+2025-07-12 15:48:10.307364,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,1
+2025-07-25 15:48:10.307387,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,2
+2025-07-10 15:48:10.307419,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,2
+2025-07-01 15:48:10.307450,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,3
+2025-06-29 15:48:10.307489,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,5
+2025-07-22 15:48:10.307531,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,3
+2025-07-20 15:48:10.307552,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,3
+2025-07-18 15:48:10.307593,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,3
+2025-07-11 15:48:10.307620,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,2
+2025-06-29 15:48:10.307662,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,4
+2025-07-02 15:48:10.307696,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,2
+2025-07-27 15:48:10.307718,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,5
+2025-07-15 15:48:10.307745,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,3
+2025-07-21 15:48:10.307777,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,4
+2025-07-09 15:48:10.307795,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0,15,5
+2025-07-28 15:48:10.307832,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,4
+2025-07-29 15:48:10.307858,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,1
+2025-07-28 15:48:10.307877,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,5
+2025-07-22 15:48:10.307902,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,3
+2025-07-27 15:48:10.307926,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,4
+2025-07-20 15:48:10.307952,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,5
+2025-07-10 15:48:10.307969,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,4
+2025-07-06 15:48:10.308004,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,5
+2025-07-10 15:48:10.308029,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,5
+2025-07-15 15:48:10.308055,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,5
+2025-07-11 15:48:10.308087,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,3
+2025-07-05 15:48:10.308114,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,4
+2025-07-09 15:48:10.308133,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,1
+2025-07-02 15:48:10.308159,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,1
+2025-07-19 15:48:10.308191,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,4
+2025-07-25 15:48:10.308223,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,2
+2025-07-01 15:48:10.308264,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,4
+2025-07-11 15:48:10.308296,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.1531,13,5
+2025-07-23 15:48:10.308312,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,2
+2025-07-21 15:48:10.308344,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,2
+2025-07-21 15:48:10.308377,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,4
+2025-07-24 15:48:10.308409,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,2
+2025-07-21 15:48:10.308450,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,3
+2025-07-07 15:48:10.308472,I felt confused today. I wrote in my journal and expressed my thoughts.,no depression,13,-0.3182,11,4
+2025-07-20 15:48:10.308492,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,3
+2025-07-01 15:48:10.308507,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,3
+2025-07-23 15:48:10.308539,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,1
+2025-07-22 15:48:10.308557,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0,15,3
+2025-07-29 15:48:10.308597,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,5
+2025-07-09 15:48:10.308628,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,4
+2025-07-08 15:48:10.308671,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,1
+2025-07-07 15:48:10.308694,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,3
+2025-07-08 15:48:10.308716,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,1
+2025-07-27 15:48:10.308748,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,2
+2025-07-15 15:48:10.308771,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,2
+2025-07-26 15:48:10.308802,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,4
+2025-06-30 15:48:10.308835,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,5
+2025-07-07 15:48:10.308867,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,4
+2025-07-06 15:48:10.308890,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,3
+2025-07-04 15:48:10.308931,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,2
+2025-07-19 15:48:10.308961,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,3
+2025-06-30 15:48:10.308985,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.3182,15,4
+2025-07-18 15:48:10.309007,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,3
+2025-07-17 15:48:10.309050,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,2
+2025-07-26 15:48:10.309092,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,4
+2025-07-25 15:48:10.309122,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,2
+2025-07-15 15:48:10.309163,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-07-28 15:48:10.309194,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,2
+2025-07-23 15:48:10.309217,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,3
+2025-07-29 15:48:10.309250,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,3
+2025-07-02 15:48:10.309284,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,3
+2025-07-08 15:48:10.309318,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,1
+2025-07-01 15:48:10.309351,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,3
+2025-07-03 15:48:10.309368,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,4
+2025-07-20 15:48:10.309395,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,3
+2025-06-30 15:48:10.309428,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,2
+2025-07-13 15:48:10.309447,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,1
+2025-07-03 15:48:10.309477,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,1
+2025-07-03 15:48:10.309494,I felt confused today. I wrote in my journal and expressed my thoughts.,depression,13,-0.3182,11,1
+2025-07-21 15:48:10.309521,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,1
+2025-07-06 15:48:10.309555,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,2
+2025-07-28 15:48:10.309571,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,1
+2025-07-24 15:48:10.309596,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,1
+2025-07-08 15:48:10.309630,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,1
+2025-07-23 15:48:10.309663,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,1
+2025-07-17 15:48:10.309695,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,2
+2025-06-29 15:48:10.309728,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,4
+2025-07-25 15:48:10.309760,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,5
+2025-07-16 15:48:10.309777,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,1
+2025-07-04 15:48:10.309812,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,2
+2025-07-27 15:48:10.309845,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,4
+2025-07-08 15:48:10.309862,I felt confused today. I wrote in my journal and expressed my thoughts.,no depression,13,-0.3182,11,3
+2025-07-17 15:48:10.309880,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,2
+2025-07-15 15:48:10.309913,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,5
+2025-06-30 15:48:10.309948,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,4
+2025-07-25 15:48:10.309972,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,1
+2025-07-07 15:48:10.309991,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,3
+2025-07-24 15:48:10.310018,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,5
+2025-07-06 15:48:10.310044,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,5
+2025-07-10 15:48:10.310066,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,2
+2025-07-28 15:48:10.310084,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,4
+2025-07-19 15:48:10.310100,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,1
+2025-07-14 15:48:10.310134,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,1
+2025-07-02 15:48:10.310161,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,2
+2025-07-12 15:48:10.310189,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,1
+2025-07-18 15:48:10.310211,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,4
+2025-07-27 15:48:10.310250,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,2
+2025-07-08 15:48:10.310287,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,4
+2025-07-02 15:48:10.310319,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,2
+2025-06-30 15:48:10.310357,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,2
+2025-07-15 15:48:10.310372,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,2
+2025-07-22 15:48:10.310403,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,4
+2025-07-27 15:48:10.310433,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,3
+2025-07-16 15:48:10.310464,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,2
+2025-06-30 15:48:10.310493,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,2
+2025-07-09 15:48:10.310512,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,3
+2025-07-13 15:48:10.310549,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,3
+2025-07-13 15:48:10.310578,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,3
+2025-07-01 15:48:10.310618,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,1
+2025-07-15 15:48:10.310638,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,1
+2025-07-26 15:48:10.310678,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,5
+2025-07-22 15:48:10.310716,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,3
+2025-07-25 15:48:10.310754,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,1
+2025-07-07 15:48:10.310794,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,2
+2025-06-29 15:48:10.310831,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,1
+2025-07-27 15:48:10.310870,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,5
+2025-07-09 15:48:10.310914,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,3
+2025-07-15 15:48:10.310936,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,4
+2025-07-17 15:48:10.310966,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,3
+2025-07-03 15:48:10.310996,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,5
+2025-07-29 15:48:10.311025,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,2
+2025-07-21 15:48:10.311044,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,1
+2025-06-29 15:48:10.311066,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,1
+2025-07-03 15:48:10.311097,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,1
+2025-07-11 15:48:10.311115,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,3
+2025-07-16 15:48:10.311134,I felt fine today. I wrote in my journal and expressed my thoughts.,no depression,13,0.2023,11,3
+2025-07-26 15:48:10.311164,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,3
+2025-07-22 15:48:10.311194,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,1
+2025-07-12 15:48:10.311233,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,3
+2025-07-21 15:48:10.311262,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,2
+2025-07-08 15:48:10.311301,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,2
+2025-07-04 15:48:10.311322,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-03 15:48:10.311360,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,4
+2025-07-02 15:48:10.311399,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,1
+2025-07-13 15:48:10.311418,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,5
+2025-07-10 15:48:10.311455,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,2
+2025-07-26 15:48:10.311484,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,5
+2025-07-23 15:48:10.311503,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,4
+2025-07-25 15:48:10.311524,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-03 15:48:10.311564,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-15 15:48:10.311603,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-19 15:48:10.311630,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,4
+2025-07-25 15:48:10.311670,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,3
+2025-07-20 15:48:10.311708,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,4
+2025-07-27 15:48:10.311746,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,4
+2025-07-01 15:48:10.311784,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,1
+2025-07-08 15:48:10.311813,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,3
+2025-07-12 15:48:10.311833,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,4
+2025-07-27 15:48:10.311854,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,5
+2025-07-08 15:48:10.311873,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,2
+2025-07-05 15:48:10.311902,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,4
+2025-07-27 15:48:10.311931,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,1
+2025-07-28 15:48:10.311953,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,1
+2025-07-04 15:48:10.311973,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,3
+2025-07-24 15:48:10.311994,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,1
+2025-07-01 15:48:10.312024,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,5
+2025-07-04 15:48:10.312044,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,2
+2025-07-12 15:48:10.312074,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,4
+2025-07-09 15:48:10.312114,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,3
+2025-07-09 15:48:10.312135,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,1
+2025-07-18 15:48:10.312156,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,5
+2025-07-05 15:48:10.312191,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,1
+2025-07-13 15:48:10.312225,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,2
+2025-07-25 15:48:10.312255,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,1
+2025-07-24 15:48:10.312274,I felt fine today. I wrote in my journal and expressed my thoughts.,no depression,13,0.2023,11,1
+2025-07-28 15:48:10.312312,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,5
+2025-07-14 15:48:10.312343,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,1
+2025-06-30 15:48:10.312363,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,1
+2025-07-19 15:48:10.312403,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,3
+2025-07-12 15:48:10.312442,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,3
+2025-07-12 15:48:10.312457,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,1
+2025-07-18 15:48:10.312495,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-07-20 15:48:10.312527,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,2
+2025-07-23 15:48:10.312552,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,5
+2025-07-24 15:48:10.312590,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,2
+2025-07-27 15:48:10.312626,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,4
+2025-07-07 15:48:10.312668,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,1
+2025-07-02 15:48:10.312701,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,4
+2025-07-03 15:48:10.312728,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,1
+2025-07-23 15:48:10.312747,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,4
+2025-07-08 15:48:10.312767,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,1
+2025-07-11 15:48:10.312799,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.0516,14,4
+2025-07-01 15:48:10.312818,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,2
+2025-07-23 15:48:10.312859,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,1
+2025-07-17 15:48:10.312891,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,2
+2025-07-09 15:48:10.312917,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,1
+2025-07-17 15:48:10.312939,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-15 15:48:10.312972,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,2
+2025-07-09 15:48:10.313009,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,1
+2025-07-12 15:48:10.313044,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,4
+2025-07-29 15:48:10.313081,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,3
+2025-07-10 15:48:10.313098,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,4
+2025-07-23 15:48:10.313130,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,3
+2025-06-30 15:48:10.313157,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,2
+2025-07-15 15:48:10.313180,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,4
+2025-07-14 15:48:10.313209,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,2
+2025-07-04 15:48:10.313229,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,5
+2025-07-24 15:48:10.313265,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,2
+2025-07-12 15:48:10.313283,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,2
+2025-07-05 15:48:10.313301,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,5
+2025-07-08 15:48:10.313338,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,2
+2025-07-20 15:48:10.313355,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,2
+2025-07-20 15:48:10.313369,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,5
+2025-07-17 15:48:10.313395,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,4
+2025-07-14 15:48:10.313412,I felt fine today. I wrote in my journal and expressed my thoughts.,no depression,13,0.2023,11,5
+2025-07-09 15:48:10.313439,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,3
+2025-07-14 15:48:10.313473,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,4
+2025-07-05 15:48:10.313487,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,5
+2025-07-11 15:48:10.313519,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,2
+2025-07-09 15:48:10.313549,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,1
+2025-07-21 15:48:10.313570,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,4
+2025-07-05 15:48:10.313606,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,5
+2025-07-16 15:48:10.313636,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,4
+2025-07-19 15:48:10.313671,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,1
+2025-07-05 15:48:10.313702,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,4
+2025-07-17 15:48:10.313742,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,4
+2025-07-05 15:48:10.313772,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.1531,13,5
+2025-06-30 15:48:10.313809,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,2
+2025-07-13 15:48:10.313846,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,1
+2025-07-01 15:48:10.313865,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,5
+2025-07-09 15:48:10.313887,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,5
+2025-07-23 15:48:10.313906,I felt confused today. I wrote in my journal and expressed my thoughts.,no depression,13,-0.3182,11,4
+2025-07-08 15:48:10.313936,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,3
+2025-07-21 15:48:10.313957,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,5
+2025-07-20 15:48:10.313996,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,1
+2025-07-12 15:48:10.314021,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,1
+2025-07-07 15:48:10.314042,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,5
+2025-07-19 15:48:10.314081,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,3
+2025-07-27 15:48:10.314099,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,3
+2025-07-08 15:48:10.314139,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,2
+2025-07-18 15:48:10.314158,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,5
+2025-07-20 15:48:10.314192,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,2
+2025-07-29 15:48:10.314220,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,1
+2025-07-11 15:48:10.314240,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,5
+2025-07-19 15:48:10.314259,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,5
+2025-07-14 15:48:10.314293,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,2
+2025-07-17 15:48:10.314306,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,4
+2025-07-21 15:48:10.314333,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,5
+2025-07-22 15:48:10.314369,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,3
+2025-07-03 15:48:10.314384,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0,15,5
+2025-07-20 15:48:10.314417,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,1
+2025-07-12 15:48:10.314447,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,1
+2025-07-23 15:48:10.314475,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,3
+2025-07-11 15:48:10.314503,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,4
+2025-07-15 15:48:10.314523,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,2
+2025-07-17 15:48:10.314551,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,1
+2025-07-12 15:48:10.314579,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,2
+2025-07-06 15:48:10.314601,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,4
+2025-07-15 15:48:10.314635,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,5
+2025-07-18 15:48:10.314653,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,4
+2025-07-04 15:48:10.314671,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0516,11,1
+2025-07-09 15:48:10.314704,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,5
+2025-07-07 15:48:10.314738,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,5
+2025-07-28 15:48:10.314756,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,3
+2025-07-04 15:48:10.314792,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,4
+2025-07-26 15:48:10.314820,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,1
+2025-07-25 15:48:10.314846,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,1
+2025-07-16 15:48:10.314882,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,5
+2025-07-13 15:48:10.314918,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-07-15 15:48:10.314946,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,4
+2025-07-06 15:48:10.314973,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,5
+2025-07-07 15:48:10.315009,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,5
+2025-07-01 15:48:10.315024,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0,15,1
+2025-07-12 15:48:10.315051,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,3
+2025-07-24 15:48:10.315088,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,3
+2025-07-11 15:48:10.315122,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,4
+2025-07-27 15:48:10.315157,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-07-29 15:48:10.315193,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,3
+2025-07-22 15:48:10.315213,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,2
+2025-07-18 15:48:10.315230,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,3
+2025-07-07 15:48:10.315248,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,5
+2025-07-25 15:48:10.315284,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,2
+2025-07-15 15:48:10.315302,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,4
+2025-06-29 15:48:10.315338,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,3
+2025-07-18 15:48:10.315374,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,1
+2025-07-03 15:48:10.315397,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,4
+2025-07-10 15:48:10.315416,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,3
+2025-07-18 15:48:10.315436,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,2
+2025-07-13 15:48:10.315464,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,1
+2025-07-23 15:48:10.315497,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,1
+2025-07-24 15:48:10.315531,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,3
+2025-07-21 15:48:10.315560,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,1
+2025-07-18 15:48:10.315580,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.3182,15,4
+2025-07-06 15:48:10.315607,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,1
+2025-07-24 15:48:10.315624,I felt fine today. I wrote in my journal and expressed my thoughts.,no depression,13,0.2023,11,5
+2025-07-13 15:48:10.315642,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0516,11,1
+2025-07-28 15:48:10.315669,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,3
+2025-07-28 15:48:10.315695,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,4
+2025-07-23 15:48:10.315724,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,4
+2025-07-21 15:48:10.315761,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,1
+2025-07-18 15:48:10.315797,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,5
+2025-07-11 15:48:10.315831,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,3
+2025-07-16 15:48:10.315854,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,5
+2025-06-29 15:48:10.315889,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,4
+2025-07-12 15:48:10.315917,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,1
+2025-07-23 15:48:10.315952,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,5
+2025-07-03 15:48:10.315987,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,4
+2025-07-20 15:48:10.316024,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,4
+2025-07-16 15:48:10.316044,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,5
+2025-07-03 15:48:10.316067,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,4
+2025-07-14 15:48:10.316087,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,5
+2025-07-04 15:48:10.316116,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,3
+2025-07-15 15:48:10.316144,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,3
+2025-07-15 15:48:10.316164,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,3
+2025-07-18 15:48:10.316200,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,5
+2025-07-12 15:48:10.316235,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,5
+2025-07-21 15:48:10.316255,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,4
+2025-07-02 15:48:10.316283,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,1
+2025-07-04 15:48:10.316318,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,4
+2025-07-07 15:48:10.316353,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,2
+2025-07-06 15:48:10.316380,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,3
+2025-07-14 15:48:10.316417,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,4
+2025-07-24 15:48:10.316445,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,4
+2025-07-26 15:48:10.316471,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,5
+2025-07-28 15:48:10.316499,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,2
+2025-07-14 15:48:10.316536,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,3
+2025-07-18 15:48:10.316553,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,1
+2025-07-04 15:48:10.316580,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,1
+2025-07-23 15:48:10.316598,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,3
+2025-07-18 15:48:10.316616,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,1
+2025-07-12 15:48:10.316634,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,1
+2025-07-18 15:48:10.316660,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,5
+2025-07-16 15:48:10.316696,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,2
+2025-07-09 15:48:10.316722,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,4
+2025-07-21 15:48:10.316756,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,3
+2025-07-05 15:48:10.316790,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,3
+2025-07-25 15:48:10.316826,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,4
+2025-07-26 15:48:10.316844,I felt fine today. I wrote in my journal and expressed my thoughts.,no depression,13,0.2023,11,2
+2025-07-09 15:48:10.316873,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,5
+2025-07-24 15:48:10.316902,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,2
+2025-07-29 15:48:10.316931,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,5
+2025-07-28 15:48:10.316959,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,1
+2025-07-29 15:48:10.316996,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,5
+2025-07-11 15:48:10.317024,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,4
+2025-07-13 15:48:10.317053,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,1
+2025-07-27 15:48:10.317089,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,3
+2025-07-17 15:48:10.317110,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,4
+2025-07-19 15:48:10.317137,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,4
+2025-07-27 15:48:10.317174,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,4
+2025-07-14 15:48:10.317201,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,3
+2025-07-21 15:48:10.317219,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,5
+2025-07-01 15:48:10.317253,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,2
+2025-07-14 15:48:10.317286,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,4
+2025-07-04 15:48:10.317319,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,1
+2025-07-09 15:48:10.317347,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.0516,14,3
+2025-07-13 15:48:10.317380,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,2
+2025-07-01 15:48:10.317412,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,1
+2025-07-27 15:48:10.317430,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,3
+2025-07-19 15:48:10.317466,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,4
+2025-07-24 15:48:10.317480,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,1
+2025-07-13 15:48:10.317503,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,3
+2025-07-16 15:48:10.317549,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,2
+2025-07-11 15:48:10.317602,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,2
+2025-07-05 15:48:10.317636,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,3
+2025-07-12 15:48:10.317668,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,3
+2025-07-22 15:48:10.317708,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,3
+2025-07-09 15:48:10.317732,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,2
+2025-07-16 15:48:10.317769,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,5
+2025-07-24 15:48:10.317791,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,2
+2025-07-23 15:48:10.317833,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,1
+2025-07-05 15:48:10.317867,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,2
+2025-07-11 15:48:10.317900,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,3
+2025-07-11 15:48:10.317936,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,4
+2025-07-27 15:48:10.317957,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,5
+2025-07-04 15:48:10.317994,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,2
+2025-07-01 15:48:10.318030,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,2
+2025-07-04 15:48:10.318060,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,3
+2025-07-09 15:48:10.318077,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0,15,1
+2025-07-10 15:48:10.318104,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,2
+2025-07-10 15:48:10.318133,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,3
+2025-07-18 15:48:10.318160,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,5
+2025-07-12 15:48:10.318198,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,5
+2025-07-05 15:48:10.318234,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,2
+2025-07-20 15:48:10.318261,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.1531,13,2
+2025-07-22 15:48:10.318280,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,2
+2025-07-16 15:48:10.318310,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,5
+2025-07-19 15:48:10.318344,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,3
+2025-07-18 15:48:10.318363,I felt confused today. I wrote in my journal and expressed my thoughts.,depression,13,-0.3182,11,5
+2025-07-10 15:48:10.318381,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,2
+2025-07-14 15:48:10.318409,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,1
+2025-07-19 15:48:10.318428,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,3
+2025-07-28 15:48:10.318455,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,5
+2025-07-13 15:48:10.318490,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,2
+2025-07-14 15:48:10.318525,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,5
+2025-07-18 15:48:10.318542,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,1
+2025-07-09 15:48:10.318578,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,4
+2025-07-15 15:48:10.318612,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,4
+2025-07-08 15:48:10.318626,I felt down today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0,11,3
+2025-07-02 15:48:10.318658,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,3
+2025-07-22 15:48:10.318692,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,5
+2025-07-03 15:48:10.318728,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,2
+2025-07-09 15:48:10.318761,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,3
+2025-07-23 15:48:10.318796,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,4
+2025-07-19 15:48:10.318832,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,5
+2025-07-27 15:48:10.318860,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,1
+2025-07-22 15:48:10.318877,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,2
+2025-06-30 15:48:10.318913,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,3
+2025-07-21 15:48:10.318949,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,5
+2025-07-28 15:48:10.318973,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,2
+2025-07-27 15:48:10.318994,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,5
+2025-07-14 15:48:10.319011,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,2
+2025-07-05 15:48:10.319045,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,2
+2025-07-18 15:48:10.319080,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-06-30 15:48:10.319106,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,5
+2025-07-18 15:48:10.319131,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,1
+2025-07-01 15:48:10.319148,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,1
+2025-07-03 15:48:10.319173,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,3
+2025-07-09 15:48:10.319206,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,1
+2025-07-10 15:48:10.319233,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,5
+2025-07-23 15:48:10.319260,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,4
+2025-07-25 15:48:10.319292,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,5
+2025-07-01 15:48:10.319328,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-16 15:48:10.319346,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0516,11,1
+2025-07-27 15:48:10.319363,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,2
+2025-07-07 15:48:10.319394,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,3
+2025-06-29 15:48:10.319421,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,3
+2025-07-04 15:48:10.319447,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,1
+2025-07-19 15:48:10.319479,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,1
+2025-07-18 15:48:10.319499,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,1
+2025-07-22 15:48:10.319532,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,5
+2025-07-07 15:48:10.319559,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,1
+2025-07-13 15:48:10.319594,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-28 15:48:10.319629,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,3
+2025-07-28 15:48:10.319656,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,3
+2025-07-28 15:48:10.319683,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,1
+2025-07-09 15:48:10.319718,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,3
+2025-07-11 15:48:10.319753,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,1
+2025-07-07 15:48:10.319781,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,5
+2025-07-01 15:48:10.319816,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,5
+2025-07-06 15:48:10.319836,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,1
+2025-07-02 15:48:10.319870,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,3
+2025-07-27 15:48:10.319904,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,1
+2025-07-04 15:48:10.319938,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,4
+2025-07-25 15:48:10.319971,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,3
+2025-07-08 15:48:10.320004,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,4
+2025-07-08 15:48:10.320031,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,1
+2025-07-03 15:48:10.320065,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,2
+2025-07-04 15:48:10.320100,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,4
+2025-07-05 15:48:10.320120,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,2
+2025-07-09 15:48:10.320148,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,5
+2025-07-28 15:48:10.320172,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,1
+2025-07-17 15:48:10.320194,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,5
+2025-07-05 15:48:10.320216,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,1
+2025-07-14 15:48:10.320243,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,4
+2025-07-20 15:48:10.320263,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,5
+2025-07-02 15:48:10.320281,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,5
+2025-07-06 15:48:10.320310,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,2
+2025-07-01 15:48:10.320327,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,3
+2025-07-08 15:48:10.320343,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,5
+2025-06-30 15:48:10.320378,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,3
+2025-07-12 15:48:10.320398,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,5
+2025-07-12 15:48:10.320426,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,1
+2025-07-07 15:48:10.320454,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,5
+2025-07-26 15:48:10.320477,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,5
+2025-07-10 15:48:10.320504,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,5
+2025-07-05 15:48:10.320524,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,5
+2025-07-28 15:48:10.320542,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,4
+2025-07-11 15:48:10.320575,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,3
+2025-07-04 15:48:10.320598,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,2
+2025-07-03 15:48:10.320617,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,5
+2025-07-21 15:48:10.320652,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,1
+2025-06-30 15:48:10.320689,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,2
+2025-07-19 15:48:10.320723,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-06-30 15:48:10.320757,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-07-28 15:48:10.320773,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0,15,5
+2025-07-01 15:48:10.320800,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,1
+2025-07-23 15:48:10.320830,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,4
+2025-07-06 15:48:10.320866,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,2
+2025-07-11 15:48:10.320893,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,2
+2025-07-23 15:48:10.320921,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,1
+2025-07-27 15:48:10.320935,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0,15,4
+2025-07-23 15:48:10.320954,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,4
+2025-07-02 15:48:10.320980,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,3
+2025-07-29 15:48:10.321014,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,5
+2025-07-01 15:48:10.321049,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,5
+2025-07-10 15:48:10.321084,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,4
+2025-07-11 15:48:10.321119,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,1
+2025-07-11 15:48:10.321145,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,1
+2025-07-07 15:48:10.321179,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,5
+2025-07-03 15:48:10.321218,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,4
+2025-07-22 15:48:10.321237,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,2
+2025-07-09 15:48:10.321271,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,3
+2025-07-17 15:48:10.321299,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,5
+2025-06-30 15:48:10.321327,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,1
+2025-06-30 15:48:10.321360,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,2
+2025-07-20 15:48:10.321387,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,2
+2025-06-30 15:48:10.321406,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,3
+2025-07-02 15:48:10.321439,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,3
+2025-07-02 15:48:10.321474,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,1
+2025-07-09 15:48:10.321497,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,5
+2025-07-29 15:48:10.321515,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.2023,15,3
+2025-07-13 15:48:10.321538,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,4
+2025-07-29 15:48:10.321573,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,4
+2025-07-13 15:48:10.321600,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,4
+2025-07-24 15:48:10.321625,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,2
+2025-07-29 15:48:10.321651,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,1
+2025-07-11 15:48:10.321685,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,1
+2025-07-12 15:48:10.321711,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,4
+2025-07-11 15:48:10.321738,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,3
+2025-07-22 15:48:10.321756,I felt confused today. I wrote in my journal and expressed my thoughts.,depression,13,-0.3182,11,3
+2025-07-03 15:48:10.321790,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,2
+2025-07-15 15:48:10.321816,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,3
+2025-07-22 15:48:10.321842,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,5
+2025-07-25 15:48:10.321869,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,4
+2025-07-24 15:48:10.321902,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,4
+2025-07-07 15:48:10.321932,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,5
+2025-07-04 15:48:10.321968,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,3
+2025-07-13 15:48:10.322001,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,5
+2025-06-29 15:48:10.322033,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,3
+2025-07-21 15:48:10.322052,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,1
+2025-07-11 15:48:10.322087,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,1
+2025-07-08 15:48:10.322104,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,3
+2025-07-03 15:48:10.322117,I felt down today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0,11,3
+2025-06-29 15:48:10.322142,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,2
+2025-07-18 15:48:10.322174,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,1
+2025-07-26 15:48:10.322205,"I felt overwhelmed today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8555,13,2
+2025-07-21 15:48:10.322238,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,1
+2025-07-09 15:48:10.322271,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,5
+2025-07-13 15:48:10.322291,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,1
+2025-07-14 15:48:10.322326,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,5
+2025-07-19 15:48:10.322342,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,5
+2025-07-22 15:48:10.322359,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,1
+2025-07-14 15:48:10.322385,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,5
+2025-07-22 15:48:10.322417,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,3
+2025-07-29 15:48:10.322451,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,3
+2025-07-16 15:48:10.322470,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,5
+2025-07-22 15:48:10.322488,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,2
+2025-07-07 15:48:10.322514,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,1
+2025-06-30 15:48:10.322530,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,2
+2025-07-29 15:48:10.322556,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,1
+2025-07-18 15:48:10.322575,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,4
+2025-07-19 15:48:10.322591,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,5
+2025-07-22 15:48:10.322618,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,5
+2025-07-10 15:48:10.322649,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,1
+2025-07-23 15:48:10.322685,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,1
+2025-07-10 15:48:10.322709,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,2
+2025-07-16 15:48:10.322747,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,5
+2025-07-05 15:48:10.322783,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,4
+2025-07-08 15:48:10.322800,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,2
+2025-07-28 15:48:10.322835,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,2
+2025-07-03 15:48:10.322855,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,2
+2025-06-30 15:48:10.322889,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,3
+2025-07-27 15:48:10.322908,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,4
+2025-07-26 15:48:10.322941,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,3
+2025-07-05 15:48:10.322964,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,1
+2025-07-28 15:48:10.322997,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,5
+2025-07-21 15:48:10.323030,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,1
+2025-07-19 15:48:10.323048,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,1
+2025-07-02 15:48:10.323071,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,5
+2025-07-09 15:48:10.323104,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,1
+2025-07-18 15:48:10.323121,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,1
+2025-07-04 15:48:10.323143,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,2
+2025-07-24 15:48:10.323168,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,1
+2025-07-08 15:48:10.323200,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,2
+2025-07-19 15:48:10.323214,"I felt down today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0,15,1
+2025-07-06 15:48:10.323236,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,1
+2025-07-20 15:48:10.323261,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,2
+2025-07-12 15:48:10.323287,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,4
+2025-07-21 15:48:10.323304,I felt confused today. I wrote in my journal and expressed my thoughts.,no depression,13,-0.3182,11,2
+2025-07-17 15:48:10.323325,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,4
+2025-07-18 15:48:10.323359,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,4
+2025-06-29 15:48:10.323376,I felt confused today. I wrote in my journal and expressed my thoughts.,depression,13,-0.3182,11,3
+2025-07-15 15:48:10.323410,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,2
+2025-07-13 15:48:10.323443,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,3
+2025-07-18 15:48:10.323459,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,4
+2025-07-29 15:48:10.323493,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,1
+2025-07-29 15:48:10.323526,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,1
+2025-07-27 15:48:10.323552,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,4
+2025-07-07 15:48:10.323578,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,1
+2025-07-10 15:48:10.323597,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,5
+2025-07-21 15:48:10.323620,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,3
+2025-07-15 15:48:10.323639,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-11 15:48:10.323672,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,5
+2025-07-18 15:48:10.323701,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,3
+2025-07-05 15:48:10.323727,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.0516,14,5
+2025-07-09 15:48:10.323758,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,1
+2025-07-12 15:48:10.323793,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,2
+2025-07-18 15:48:10.323815,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,1
+2025-07-01 15:48:10.323848,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,5
+2025-07-01 15:48:10.323873,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,4
+2025-07-23 15:48:10.323889,I felt fine today. I wrote in my journal and expressed my thoughts.,no depression,13,0.2023,11,2
+2025-07-28 15:48:10.323915,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,4
+2025-07-01 15:48:10.323940,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,3
+2025-07-04 15:48:10.323974,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,5
+2025-07-08 15:48:10.324007,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,3
+2025-07-11 15:48:10.324026,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,1
+2025-06-30 15:48:10.324059,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,3
+2025-07-12 15:48:10.324085,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.0516,14,4
+2025-07-15 15:48:10.324112,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,4
+2025-07-16 15:48:10.324129,I felt confused today. I wrote in my journal and expressed my thoughts.,depression,13,-0.3182,11,1
+2025-07-29 15:48:10.324162,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,5
+2025-07-21 15:48:10.324208,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,5
+2025-07-17 15:48:10.324243,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,5
+2025-07-03 15:48:10.324277,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,4
+2025-07-20 15:48:10.324311,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,1
+2025-07-17 15:48:10.324338,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,3
+2025-07-26 15:48:10.324372,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,5
+2025-07-07 15:48:10.324397,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,2
+2025-07-02 15:48:10.324430,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,4
+2025-07-20 15:48:10.324456,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,1
+2025-07-18 15:48:10.324478,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,1
+2025-07-09 15:48:10.324494,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,5
+2025-07-17 15:48:10.324529,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,1
+2025-07-04 15:48:10.324561,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,5
+2025-07-18 15:48:10.324593,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,1
+2025-07-26 15:48:10.324606,I felt down today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0,11,2
+2025-07-17 15:48:10.324623,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0516,11,3
+2025-07-14 15:48:10.324649,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.0516,14,1
+2025-07-29 15:48:10.324677,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,4
+2025-07-02 15:48:10.324711,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,1
+2025-07-29 15:48:10.324743,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,1
+2025-07-26 15:48:10.324760,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,5
+2025-07-16 15:48:10.324776,I felt fine today. I wrote in my journal and expressed my thoughts.,depression,13,0.2023,11,5
+2025-07-27 15:48:10.324802,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,5
+2025-07-05 15:48:10.324829,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,3
+2025-07-08 15:48:10.324854,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,4
+2025-07-02 15:48:10.324876,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,2
+2025-07-02 15:48:10.324910,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,3
+2025-07-19 15:48:10.324932,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,5
+2025-07-19 15:48:10.324987,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,1
+2025-07-05 15:48:10.325009,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,1
+2025-07-25 15:48:10.325036,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,3
+2025-07-16 15:48:10.325067,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,4
+2025-07-23 15:48:10.325095,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,3
+2025-06-29 15:48:10.325118,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,1
+2025-07-17 15:48:10.325141,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,2
+2025-07-16 15:48:10.325176,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,2
+2025-07-13 15:48:10.325210,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,4
+2025-07-17 15:48:10.325233,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,4
+2025-07-05 15:48:10.325260,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,2
+2025-07-05 15:48:10.325286,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,3
+2025-07-18 15:48:10.325308,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,4
+2025-07-06 15:48:10.325325,I felt confused today. I wrote in my journal and expressed my thoughts.,no depression,13,-0.3182,11,1
+2025-07-08 15:48:10.325350,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,2
+2025-07-20 15:48:10.325370,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,5
+2025-07-19 15:48:10.325404,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,3
+2025-07-16 15:48:10.325430,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,2
+2025-07-19 15:48:10.325463,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,2
+2025-07-24 15:48:10.325495,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,5
+2025-07-10 15:48:10.325522,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.1531,13,3
+2025-07-10 15:48:10.325538,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,1
+2025-07-06 15:48:10.325554,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,3
+2025-07-27 15:48:10.325570,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,4
+2025-07-16 15:48:10.325588,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,2
+2025-07-25 15:48:10.325615,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,4
+2025-07-26 15:48:10.325633,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,3
+2025-07-14 15:48:10.325649,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,4
+2025-07-27 15:48:10.325665,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,1
+2025-07-28 15:48:10.325699,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,4
+2025-07-19 15:48:10.325721,I felt down today. I found it hard to focus today; it was a heavy day.,depression,16,-0.1027,14,1
+2025-07-17 15:48:10.325733,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,5
+2025-07-04 15:48:10.325760,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,1
+2025-07-22 15:48:10.325795,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,2
+2025-07-10 15:48:10.325822,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,4
+2025-07-18 15:48:10.325856,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,5
+2025-07-16 15:48:10.325888,"I felt fine today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.875,13,5
+2025-07-04 15:48:10.325914,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,5
+2025-07-04 15:48:10.325940,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,5
+2025-07-01 15:48:10.325974,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,4
+2025-07-16 15:48:10.326004,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,1
+2025-07-28 15:48:10.326031,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,2
+2025-07-09 15:48:10.326056,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,4
+2025-07-17 15:48:10.326074,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,5
+2025-07-15 15:48:10.326107,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,3
+2025-07-03 15:48:10.326140,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,2
+2025-07-01 15:48:10.326152,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,2
+2025-07-06 15:48:10.326170,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,1
+2025-07-09 15:48:10.326200,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,4
+2025-07-25 15:48:10.326225,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,2
+2025-07-06 15:48:10.326254,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,3
+2025-07-04 15:48:10.326287,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,5
+2025-07-16 15:48:10.326315,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,3
+2025-07-18 15:48:10.326336,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,2
+2025-07-13 15:48:10.326354,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-17 15:48:10.326372,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,3
+2025-07-02 15:48:10.326404,I felt hopeful today. I felt overwhelmed with sadness and isolation.,depression,11,-0.2732,9,4
+2025-07-02 15:48:10.326437,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,5
+2025-07-14 15:48:10.326469,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,4
+2025-07-11 15:48:10.326487,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-06-30 15:48:10.326504,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,4
+2025-07-10 15:48:10.326536,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,4
+2025-07-21 15:48:10.326566,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,2
+2025-07-24 15:48:10.326599,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,3
+2025-07-28 15:48:10.326624,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,1
+2025-07-01 15:48:10.326656,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,4
+2025-07-16 15:48:10.326686,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,3
+2025-07-03 15:48:10.326703,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,4
+2025-07-20 15:48:10.326735,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,3
+2025-07-10 15:48:10.326765,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,1
+2025-07-24 15:48:10.326790,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,5
+2025-07-29 15:48:10.326815,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,1
+2025-07-17 15:48:10.326833,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.3182,15,1
+2025-07-03 15:48:10.326858,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,4
+2025-07-27 15:48:10.326882,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,5
+2025-07-03 15:48:10.326902,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,2
+2025-07-14 15:48:10.326927,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,3
+2025-07-28 15:48:10.326943,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,4
+2025-06-30 15:48:10.326968,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,2
+2025-07-25 15:48:10.327002,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,2
+2025-07-02 15:48:10.327036,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,3
+2025-07-10 15:48:10.327062,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,4
+2025-07-13 15:48:10.327095,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,2
+2025-07-13 15:48:10.327128,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,1
+2025-07-01 15:48:10.327158,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,4
+2025-07-01 15:48:10.327189,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,3
+2025-07-15 15:48:10.327206,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,4
+2025-06-30 15:48:10.327231,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,2
+2025-07-14 15:48:10.327255,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,1
+2025-07-06 15:48:10.327281,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,2
+2025-07-12 15:48:10.327307,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,1
+2025-07-06 15:48:10.327337,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,4
+2025-07-29 15:48:10.327369,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,2
+2025-07-06 15:48:10.327401,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,4
+2025-06-29 15:48:10.327433,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,4
+2025-06-30 15:48:10.327450,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,3
+2025-07-15 15:48:10.327466,I felt confused today. I wrote in my journal and expressed my thoughts.,depression,13,-0.3182,11,4
+2025-06-30 15:48:10.327499,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,1
+2025-07-24 15:48:10.327517,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,3
+2025-07-28 15:48:10.327533,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,4
+2025-07-26 15:48:10.327571,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,1
+2025-07-25 15:48:10.327604,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,1
+2025-07-14 15:48:10.327629,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,1
+2025-07-11 15:48:10.327654,"I felt better today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7003,13,2
+2025-07-14 15:48:10.327684,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,4
+2025-07-19 15:48:10.327709,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,1
+2025-07-13 15:48:10.327741,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,3
+2025-07-04 15:48:10.327766,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,5
+2025-07-17 15:48:10.327792,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,1
+2025-07-29 15:48:10.327816,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,2
+2025-07-06 15:48:10.327841,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,1
+2025-07-25 15:48:10.327873,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,2
+2025-07-11 15:48:10.327903,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,4
+2025-07-04 15:48:10.327923,I felt down today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.1027,14,4
+2025-07-20 15:48:10.327948,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,1
+2025-07-02 15:48:10.327964,I felt confused today. I wrote in my journal and expressed my thoughts.,no depression,13,-0.3182,11,1
+2025-07-17 15:48:10.327997,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,4
+2025-07-25 15:48:10.328022,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.1531,13,5
+2025-07-25 15:48:10.328038,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,depression,13,0.0516,11,4
+2025-07-08 15:48:10.328063,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,4
+2025-07-13 15:48:10.328095,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,4
+2025-07-06 15:48:10.328120,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,2
+2025-07-02 15:48:10.328151,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,2
+2025-06-30 15:48:10.328181,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,4
+2025-07-28 15:48:10.328214,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,1
+2025-07-12 15:48:10.328246,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,3
+2025-07-05 15:48:10.328278,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,2
+2025-07-23 15:48:10.328311,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,1
+2025-07-14 15:48:10.328336,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,3
+2025-07-19 15:48:10.328361,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,4
+2025-07-04 15:48:10.328394,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,2
+2025-07-17 15:48:10.328424,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,5
+2025-07-16 15:48:10.328449,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,4
+2025-07-20 15:48:10.328473,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,4
+2025-07-16 15:48:10.328495,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,1
+2025-07-23 15:48:10.328512,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,1
+2025-07-29 15:48:10.328527,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,4
+2025-07-02 15:48:10.328560,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,1
+2025-07-04 15:48:10.328585,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,3
+2025-07-16 15:48:10.328608,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,3
+2025-07-27 15:48:10.328641,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,1
+2025-07-27 15:48:10.328660,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,4
+2025-07-01 15:48:10.328684,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,5
+2025-07-20 15:48:10.328708,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,4
+2025-07-03 15:48:10.328720,I felt down today. I wrote in my journal and expressed my thoughts.,depression,13,0.0,11,5
+2025-07-06 15:48:10.328752,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,2
+2025-07-27 15:48:10.328768,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,5
+2025-07-24 15:48:10.328798,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,2
+2025-07-25 15:48:10.328823,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,2
+2025-07-04 15:48:10.328856,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,4
+2025-07-21 15:48:10.328871,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,3
+2025-07-27 15:48:10.328901,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,4
+2025-07-26 15:48:10.328933,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,5
+2025-07-29 15:48:10.328957,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,5
+2025-07-25 15:48:10.328989,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,4
+2025-07-28 15:48:10.329015,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,1
+2025-06-30 15:48:10.329051,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,5
+2025-07-16 15:48:10.329082,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,3
+2025-07-12 15:48:10.329107,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,3
+2025-07-14 15:48:10.329137,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,5
+2025-07-14 15:48:10.329169,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-25 15:48:10.329193,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,1
+2025-07-26 15:48:10.329217,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,2
+2025-07-19 15:48:10.329247,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,5
+2025-07-02 15:48:10.329263,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,3
+2025-07-11 15:48:10.329281,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,3
+2025-07-24 15:48:10.329297,I felt happy today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5719,11,4
+2025-07-18 15:48:10.329315,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,5
+2025-07-18 15:48:10.329347,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,3
+2025-07-20 15:48:10.329384,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,4
+2025-07-19 15:48:10.329407,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,1
+2025-07-18 15:48:10.329440,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,1
+2025-07-29 15:48:10.329465,I felt hopeful today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.705,13,3
+2025-07-15 15:48:10.329497,I felt happy today. I felt overwhelmed with sadness and isolation.,depression,11,-0.1779,9,1
+2025-06-30 15:48:10.329530,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,4
+2025-06-29 15:48:10.329547,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-03 15:48:10.329572,I felt fine today. I found it hard to focus today; it was a heavy day.,depression,16,0.1027,14,2
+2025-07-08 15:48:10.329600,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,4
+2025-06-30 15:48:10.329630,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,2
+2025-07-05 15:48:10.329662,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,5
+2025-07-25 15:48:10.329692,"I felt down today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.8481,13,3
+2025-07-26 15:48:10.329711,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,4
+2025-07-06 15:48:10.329736,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,no depression,16,-0.0516,14,2
+2025-06-29 15:48:10.329760,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,3
+2025-07-22 15:48:10.329786,I felt better today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6858,13,3
+2025-06-29 15:48:10.329819,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,2
+2025-07-26 15:48:10.329843,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,1
+2025-07-24 15:48:10.329861,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,1
+2025-07-18 15:48:10.329886,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,3
+2025-07-29 15:48:10.329918,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,5
+2025-07-12 15:48:10.329943,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,4
+2025-07-26 15:48:10.329967,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,4
+2025-07-18 15:48:10.329991,I felt confused today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.4678,13,3
+2025-07-16 15:48:10.330008,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-10 15:48:10.330031,I felt better today. I found it hard to focus today; it was a heavy day.,no depression,16,0.3612,14,1
+2025-07-18 15:48:10.330062,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,3
+2025-07-08 15:48:10.330086,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,4
+2025-07-21 15:48:10.330102,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,2
+2025-07-26 15:48:10.330127,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,1
+2025-07-28 15:48:10.330158,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,1
+2025-07-20 15:48:10.330173,I felt empty today. I wrote in my journal and expressed my thoughts.,depression,13,-0.2023,11,2
+2025-07-22 15:48:10.330190,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.2023,15,1
+2025-07-17 15:48:10.330217,I felt down today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6597,9,1
+2025-07-27 15:48:10.330242,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.1531,13,3
+2025-07-15 15:48:10.330271,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,2
+2025-07-26 15:48:10.330294,I felt happy today. I found it hard to focus today; it was a heavy day.,no depression,16,0.5106,14,5
+2025-07-16 15:48:10.330325,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,5
+2025-07-17 15:48:10.330350,I felt fine today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.6249,13,5
+2025-07-02 15:48:10.330373,I felt fine today. I found it hard to focus today; it was a heavy day.,no depression,16,0.1027,14,5
+2025-07-16 15:48:10.330389,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,5
+2025-06-29 15:48:10.330421,I felt overwhelmed today. I felt overwhelmed with sadness and isolation.,depression,11,-0.6369,8,5
+2025-07-06 15:48:10.330444,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,2
+2025-07-16 15:48:10.330467,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,1
+2025-07-22 15:48:10.330498,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,2
+2025-07-14 15:48:10.330516,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.3182,15,4
+2025-07-02 15:48:10.330539,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,4
+2025-07-22 15:48:10.330557,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,2
+2025-07-12 15:48:10.330586,"I felt happy today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9169,13,2
+2025-07-10 15:48:10.330614,"I felt better today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.9022,13,2
+2025-07-18 15:48:10.330630,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,4
+2025-07-15 15:48:10.330655,I felt overwhelmed today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5859,13,1
+2025-07-28 15:48:10.330686,I felt fine today. I felt overwhelmed with sadness and isolation.,depression,11,-0.5574,9,1
+2025-07-17 15:48:10.330702,"I felt fine today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.2023,15,3
+2025-07-08 15:48:10.330726,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,2
+2025-06-29 15:48:10.330743,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,4
+2025-07-09 15:48:10.330762,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4404,13,1
+2025-07-24 15:48:10.330779,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,5
+2025-07-29 15:48:10.330802,"I felt hopeful today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.7351,13,4
+2025-07-09 15:48:10.330818,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,5
+2025-07-07 15:48:10.330840,"I felt empty today. I felt a glimmer of hope today, looking forward to tomorrow.",depression,15,0.2732,13,1
+2025-07-14 15:48:10.330869,"I felt hopeful today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.91,13,1
+2025-07-17 15:48:10.330898,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,5
+2025-07-03 15:48:10.330928,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,3
+2025-07-29 15:48:10.330960,I felt confused today. I struggled to get out of bed and had no motivation.,depression,15,-0.6943,14,4
+2025-07-03 15:48:10.330984,I felt confused today. I found it hard to focus today; it was a heavy day.,depression,16,-0.4019,14,5
+2025-07-18 15:48:10.331008,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,3
+2025-07-06 15:48:10.331029,I felt down today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.5719,13,5
+2025-07-02 15:48:10.331050,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,5
+2025-07-17 15:48:10.331089,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,5
+2025-07-16 15:48:10.331105,I felt better today. I wrote in my journal and expressed my thoughts.,no depression,13,0.4404,11,1
+2025-07-25 15:48:10.331122,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,2
+2025-07-25 15:48:10.331139,"I felt confused today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,-0.3182,15,2
+2025-07-15 15:48:10.331155,"I felt empty today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,-0.2023,15,4
+2025-07-04 15:48:10.331187,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,1
+2025-07-25 15:48:10.331212,"I felt overwhelmed today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.4767,13,3
+2025-06-29 15:48:10.331227,I felt hopeful today. I wrote in my journal and expressed my thoughts.,no depression,13,0.5106,11,2
+2025-07-17 15:48:10.331259,I felt overwhelmed today. I struggled to get out of bed and had no motivation.,depression,15,-0.5,14,1
+2025-07-03 15:48:10.331274,I felt overwhelmed today. I wrote in my journal and expressed my thoughts.,no depression,13,0.0516,11,3
+2025-06-29 15:48:10.331291,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,2
+2025-07-26 15:48:10.331308,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.0516,15,2
+2025-07-29 15:48:10.331340,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,2
+2025-07-24 15:48:10.331372,I felt better today. I struggled to get out of bed and had no motivation.,depression,15,-0.1371,14,5
+2025-07-19 15:48:10.331404,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,2
+2025-07-13 15:48:10.331429,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,4
+2025-07-26 15:48:10.331446,"I felt overwhelmed today. I took a walk in the evening, which slightly lifted my spirits.",depression,16,0.0516,15,5
+2025-07-09 15:48:10.331476,"I felt confused today. I shared a laugh with a friend, which helped me momentarily.",no depression,15,0.7845,13,1
+2025-07-16 15:48:10.331502,"I felt happy today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.765,13,1
+2025-07-13 15:48:10.331519,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,1
+2025-07-07 15:48:10.331544,I felt overwhelmed today. I found it hard to focus today; it was a heavy day.,depression,16,-0.0516,14,2
+2025-07-07 15:48:10.331567,I felt empty today. I found it hard to focus today; it was a heavy day.,depression,16,-0.296,14,4
+2025-07-22 15:48:10.331599,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,5
+2025-07-01 15:48:10.331625,I felt empty today. I felt a bit off but managed to accomplish some tasks.,depression,15,0.5106,13,1
+2025-07-09 15:48:10.331642,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,5
+2025-07-10 15:48:10.331666,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,1
+2025-07-10 15:48:10.331683,"I felt happy today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5719,15,2
+2025-07-13 15:48:10.331708,I felt happy today. I felt a bit off but managed to accomplish some tasks.,no depression,15,0.7227,13,2
+2025-07-29 15:48:10.331740,I felt happy today. I struggled to get out of bed and had no motivation.,depression,15,0.068,14,4
+2025-07-29 15:48:10.331771,I felt better today. I felt overwhelmed with sadness and isolation.,depression,11,-0.3612,9,5
+2025-07-19 15:48:10.331802,I felt hopeful today. I struggled to get out of bed and had no motivation.,depression,15,-0.0351,14,1
+2025-07-19 15:48:10.331832,I felt empty today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7351,9,4
+2025-07-26 15:48:10.331856,I felt hopeful today. I found it hard to focus today; it was a heavy day.,no depression,16,0.4404,14,1
+2025-06-30 15:48:10.331879,"I felt fine today. I felt a glimmer of hope today, looking forward to tomorrow.",no depression,15,0.5719,13,1
+2025-07-01 15:48:10.331910,I felt down today. I struggled to get out of bed and had no motivation.,depression,15,-0.5324,14,3
+2025-07-15 15:48:10.331926,"I felt hopeful today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.5106,15,4
+2025-07-10 15:48:10.331955,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,3
+2025-07-06 15:48:10.331986,I felt confused today. I felt overwhelmed with sadness and isolation.,depression,11,-0.7717,9,5
+2025-07-04 15:48:10.332002,"I felt better today. I took a walk in the evening, which slightly lifted my spirits.",no depression,16,0.4404,15,2
+2025-07-14 15:48:10.332033,I felt fine today. I struggled to get out of bed and had no motivation.,depression,15,-0.3891,14,5
+2025-07-02 15:48:10.332062,"I felt empty today. I shared a laugh with a friend, which helped me momentarily.",depression,15,0.8126,13,4
+2025-07-23 15:48:10.332092,I felt empty today. I struggled to get out of bed and had no motivation.,depression,15,-0.6412,14,5

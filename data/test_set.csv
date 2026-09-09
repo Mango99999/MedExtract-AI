@@ -1,0 +1,31 @@
+test_id,source,text
+1,clinical_note,Patient demonstrated symptoms of depression; further assessment needed.
+2,clinical_note,"Patient shows signs of depression, feeling low and fatigued."
+3,clinical_note,"Patient has fluctuating moods, feeling sad."
+4,clinical_note,"Patient indicates a lack of interest in activities, feeling hopeful."
+5,clinical_note,Patient reports feeling low and unable to concentrate.
+6,clinical_note,Patient expressed feelings of being overwhelmed and lacks motivation.
+7,clinical_note,"Patient indicates a lack of interest in activities, feeling overwhelmed."
+8,clinical_note,Patient expressed feelings of being low and lacks motivation.
+9,clinical_note,Patient has been experiencing overwhelmed thoughts and needs support.
+10,clinical_note,Patient feels unstable; a referral to a psychiatrist may be necessary.
+11,clinical_note,Patient feels better; a referral to a psychiatrist may be necessary.
+12,clinical_note,"Patient has fluctuating moods, feeling better."
+13,clinical_note,Patient expressed feelings of being sad and lacks motivation.
+14,clinical_note,Patient has been experiencing better thoughts and needs support.
+15,clinical_note,Patient has been experiencing sad thoughts and needs support.
+16,clinical_note,"Patient indicates a lack of interest in activities, feeling sad."
+17,clinical_note,"Patient has fluctuating moods, feeling unstable."
+18,clinical_note,Patient has been experiencing hopeful thoughts and needs support.
+19,clinical_note,"Patient shows signs of depression, feeling isolated and fatigued."
+20,clinical_note,Patient reports feeling anxious and unable to concentrate.
+21,patient_diary,"I felt happy today. I shared a laugh with a friend, which helped me momentarily."
+22,patient_diary,I felt fine today. I wrote in my journal and expressed my thoughts.
+23,patient_diary,I felt confused today. I felt overwhelmed with sadness and isolation.
+24,patient_diary,"I felt confused today. I felt a glimmer of hope today, looking forward to tomorrow."
+25,patient_diary,"I felt down today. I felt a glimmer of hope today, looking forward to tomorrow."
+26,patient_diary,"I felt down today. I took a walk in the evening, which slightly lifted my spirits."
+27,patient_diary,"I felt down today. I shared a laugh with a friend, which helped me momentarily."
+28,patient_diary,I felt happy today. I felt overwhelmed with sadness and isolation.
+29,patient_diary,I felt happy today. I felt a bit off but managed to accomplish some tasks.
+30,patient_diary,I felt confused today. I struggled to get out of bed and had no motivation.
